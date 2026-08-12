@@ -1,8 +1,10 @@
 # 乃木坂女学院｜Campus Map V1（暂定定稿）
 
 > 本文件对应校园概念图板 V1。该版作为当前阶段的空间基线：以现实名门女子校的总体秩序与动线为参考，建筑外形与布局则为本企划的虚构整合。
->
-> 图片由项目仓库单独保存，建议路径：`docs/assets/campus/nogizaka-campus-map-v1.jpg`。
+
+![乃木坂女学院校园概念图板 V1](../assets/campus/nogizaka-campus-map-v1.png)
+
+图片资产：`docs/assets/campus/nogizaka-campus-map-v1.png`
 
 ## 一、总体原则
 
