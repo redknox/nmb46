@@ -4,16 +4,12 @@
 
 ## 主教学楼
 
-已锁：3F大功能、W1/W3内部改修、Central高三閲覧自修室、E1无障碍核心、东西端普通卫生服务区基本位置、“修旧如旧”总原则。
-
-见：`docs/world/high3-modern-layout-lock.md`、`docs/world/high3-w1-w3-interior-lock.md`、`docs/world/high3-central-study-room-lock.md`、`docs/world/main-building-accessibility-core-lock.md`、`docs/world/main-building-conservation-renovation-lock.md`。
+3F大功能、W1/W3、Central、E1、E2/E3 Seminar、东西端卫生服务区及“修旧如旧”原则均已锁定。
 
 仍需：
 
-1. **E2 / E3 Seminar 家具设备**：桌椅、教师位置、板书/投影、储物和现代教学设备。
-2. **东西端普通卫生服务区内部平面**：卫生间、洗手、清扫、管井与1F—3F竖向叠置。
-3. **现代防火 / 避难**：防火门与分区、行动不便者辅助避难、东端转换厅等待/联系节点。
-4. **视线与日常路线校核**：3-A—3-D门口、中央窗、端梯、西侧進路/面谈与东侧Seminar/学生会流线、雨天学生会路线、1F保健室位置。
+1. **现代防火 / 避难**：防火门与分区、中央楼梯的防烟边界、行动不便者辅助避难、东端转换厅等待/联系节点。
+2. **最终视线与日常路线校核**：3-A—3-D门口、中央窗、端梯、西侧進路/面谈与东侧Seminar/学生会流线、雨天学生会路线、1F保健室位置。
 
 > **先把旧建筑设计完整，再让现代学校住进去。**
 >
