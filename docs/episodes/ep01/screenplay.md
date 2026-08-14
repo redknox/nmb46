@@ -1,10 +1,10 @@
 # EP01《入学》｜Screenplay
 
-> 状态：**STEP 9 当前权威完整母稿 / S01–S20 第一版。**
+> 状态：**FINAL / LOCKED。EP01 正片权威文本。**
 >
-> 本文件只吸收已经通过 Beat Sheet、Scene List 与 Treatment 的确认内容。新增台词与动作只用于把既有结构落成可演、可拍的正文，不在本阶段偷偷增加新的主题、人物弧或全局因果。
+> 本文件只吸收已经通过 Beat Sheet、Scene List、Treatment、连续性审查、观众视角审查、逐场锁定、整集节奏审查、表演 / 镜头审查与最终无工具通读的确认内容。
 >
-> 全局时序以 `scene-list.md` 为准；现实执行以 `treatment.md` 为准；对白遵守 `docs/writing/dialogue-principles.md`。
+> 后续不得因“想到更漂亮的写法”重开。只接受：连续性硬伤、现实 / 制度硬伤、人物硬伤、A类观众信息RED、安全 / 制作不可执行。
 
 ---
 
