@@ -25,17 +25,31 @@
 - 单季 12 集
 - 常规集约 50 分钟
 - 最终回《放学后》约 90 分钟
-- EP01《入学》已进入 Beat Sheet 阶段
-- EP05《文化祭》剧本已定稿
+- EP01《入学》：**FINAL / LOCKED**
+- EP02《裙摆》：**开发开始，STEP 0–2**
+- EP05《文化祭》：**FINAL**
 
 ## 文档结构
 
 - `docs/series-bible/`：系列核心、人物关系与行为原则
 - `docs/structure/`：12 集结构、人物弧、伏笔与 Callback
-- `docs/episodes/`：逐集 Beat Sheet / 分场 / 剧本
+- `docs/episodes/`：逐集开发产出与正片剧本
 - `docs/world/`：学校空间、制度、世代与外部世界设定
-- `docs/writing/`：项目级编剧与审查方法
+- `docs/writing/`：项目级编剧操作系统
 - `docs/decisions/`：仍会影响后续创作的真正未决事项
+
+## 单集开发标准
+
+从 EP02 起，单集开发默认同时遵守：
+
+- `docs/writing/episode-development-workflow.md`
+- `docs/writing/episode-artifact-naming-standard.md`
+
+核心纪律：
+
+> **文件回答“现在是什么”；Git 回答“以前是什么”。**
+
+每个流程节点使用稳定文件名，状态写在文件头；正常迭代不再通过 `v0.1 / v0.2 / final-final` 保存版本历史。
 
 ## 创作基调
 
