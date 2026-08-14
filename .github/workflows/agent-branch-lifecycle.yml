@@ -1,3 +1,4 @@
+# Finalize merged agent/* branches by tagging the merge commit and removing the branch.
 name: Agent branch lifecycle
 
 on:
