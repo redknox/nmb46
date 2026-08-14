@@ -20,14 +20,15 @@
 
 > 乃木坂成员负责青春，外部演员负责时间。
 
-## 当前形式
+## 当前形式 / 开发状态
 
 - 单季 12 集
 - 常规集约 50 分钟
 - 最终回《放学后》约 90 分钟
 - EP01《入学》：**FINAL / LOCKED**
-- EP02《裙摆》：**开发开始，STEP 0–2**
+- EP02《裙摆》：**FINAL / LOCKED**
 - EP05《文化祭》：**FINAL**
+- 下一开发对象：**EP03《午休》（暂名）**
 
 ## 文档结构
 
@@ -50,6 +51,28 @@
 > **文件回答“现在是什么”；Git 回答“以前是什么”。**
 
 每个流程节点使用稳定文件名，状态写在文件头；正常迭代不再通过 `v0.1 / v0.2 / final-final` 保存版本历史。
+
+标准单集权威链：
+
+```text
+episode-brief.md
+→ reality-review.md
+→ behavior-run.md
+→ beat-sheet.md
+→ scene-list.md
+→ treatment.md
+→ screenplay.md
+→ continuity-review.md
+→ audience-review.md
+→ scene-locks.md
+→ rhythm-review.md
+→ performance-review.md
+→ final-read.md
+→ FINAL.md
+→ canon-propagation.md
+```
+
+只有真正不同信息职能的专题研究进入 `research/`；不为同一职能复制版本文件。
 
 ## 创作基调
 
