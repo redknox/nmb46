@@ -114,15 +114,17 @@ Home Room 是一张关系网，艺术履修又是另一张关系网。前期课�
 
 ## 九、当前状态与下一阶段
 
-已锁定：
+以下高三学校骨架已经锁定：
 
 - 分班：本文件；
 - 座位：`docs/world/high3-home-room-seating-lock.md`；
 - 关系层级：`docs/series-bible/relationship-network-v0.2.md`；
-- 日常关系、主动性、空间 / 心理成本与普通学生流量：`docs/series-bible/high3-daily-relationship-initiative-lock.md`。
+- 日常关系、主动性、空间 / 心理成本与普通学生流量：`docs/series-bible/high3-daily-relationship-initiative-lock.md`；
+- 课程制度：`docs/world/curriculum.md`；
+- 选修 Block、17名主要人物选修路线、典型周课表、归班缓冲与 X / Y 使用规则：`docs/world/high3-elective-routes-timetable-lock.md`。
 
-不再开放“谁每天固定跟谁吃饭 / 放学”“谁一定去哪个地点”等 RPG 式静态配对。
+不再开放“谁每天固定跟谁吃饭 / 放学”“谁一定去哪个地点”等 RPG 式静态配对，也不再为了完整性继续预制更多课程制度。
 
-下一阶段进入：
+下一阶段从单集需求反推必要细节：某门课具体在哪间教室、某位普通同学当天出现在哪门选修、特别讲师 / 委员会 / 活动日如何临时改变课表，都应服务具体分场，而不是预先锁成全年路线。
 
-> **高三主要人物选修路线与典型课表。**
+> **这套已经会自己运行的学校，在这一集里刚好发生了什么。**
