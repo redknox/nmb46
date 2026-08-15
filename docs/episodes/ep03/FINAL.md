@@ -31,6 +31,7 @@
 - `rhythm-review.md` — STEP 13 PASS
 - `performance-review.md` — STEP 14 PASS
 - `final-read.md` — STEP 15 PASS / CLOSED
+- `canon-propagation.md` — STEP 17 COMPLETE / CLOSED
 
 ---
 
@@ -118,6 +119,13 @@ EP03采用连续一镜到底逻辑。摄影机只因人物真实行动换跟随�
 
 # Canon Propagation
 
-**STEP 17：IN PROGRESS。**
+**STEP 17：COMPLETE / CLOSED。**
 
-完成全库依赖同步后，将在本文件更新为 COMPLETE，并记录 `canon-propagation.md`。
+- 传播记录：`canon-propagation.md`
+- Canon Propagation commit：`69b489f542f6bbda8fa37090c17cfa4e51036a97`
+
+已同步 README、季结构、季行为跑测、人物受力矩阵、Callbacks 与下一届学生前置；长期关系 / 世界规则经核对已与 EP03 FINAL 一致，无需重复修改。
+
+下一开发对象正式为：
+
+> **EP04《音乐室》**
