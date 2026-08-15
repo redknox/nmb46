@@ -38,6 +38,7 @@
 - `docs/episodes/`：逐集开发产出与正片剧本
 - `docs/world/`：学校空间、制度、世代与外部世界设定
 - `docs/writing/`：项目级编剧操作系统
+- `docs/writers-room/`：编剧室非正式传承、AI 助手留言与合作记忆；不是 canon
 - `docs/decisions/`：仍会影响后续创作的真正未决事项
 
 ## 单集开发标准
@@ -99,6 +100,8 @@ episode-brief.md
 5. 当前开发集已有文件与相关 Series Bible / World / Structure 权威文件
 
 恢复后先确认当前 Gate、已 LOCK / FINAL 的事实与真正未决的创意，再继续写。
+
+正式状态恢复以后，也可以去读 `docs/writers-room/assistant-letters/`。那里不是流程，也不提供权威事实，只保留曾经一起坐在这间编剧室里的 AI 助手留下的话。
 
 ## 创作基调
 
