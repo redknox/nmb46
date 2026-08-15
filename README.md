@@ -44,10 +44,21 @@
 
 从 EP02 起，单集开发默认同时遵守：
 
+- `docs/writing/writers-room-collaboration-principles.md`
 - `docs/writing/episode-development-workflow.md`
 - `docs/writing/episode-artifact-naming-standard.md`
+- `docs/writing/dialogue-principles.md`
+- `docs/writing/audience-perspective-review.md`
 
-核心纪律：
+其中：
+
+> **Writers’ Room 原则决定“我们怎样一起写”；workflow 决定“按什么顺序工作”；naming standard 决定“每一步的当前真相放在哪里”。**
+
+> **把编剧从流程劳动里解放出来，不是把编剧从创作里解放出来。**
+
+> **前期结构负责搭脚手架；逐场阶段仍然是正式创作。**
+
+核心文档纪律：
 
 > **文件回答“现在是什么”；Git 回答“以前是什么”。**
 
@@ -73,10 +84,28 @@ episode-brief.md
 → canon-propagation.md
 ```
 
+标准步骤在 FINAL 前都必须完成并留下稳定产出物；没有复杂发现的步骤可以写得很短，不为证明工作量而扩写。
+
 只有真正不同信息职能的专题研究进入 `research/`；不为同一职能复制版本文件。
+
+## 新对话 / 上下文中断恢复
+
+新的协作会话不要求重新口述整个项目历史。默认先读：
+
+1. `docs/writing/README.md`
+2. `docs/writing/writers-room-collaboration-principles.md`
+3. `docs/writing/episode-development-workflow.md`
+4. 上一集 `FINAL.md` / `canon-propagation.md`
+5. 当前开发集已有文件与相关 Series Bible / World / Structure 权威文件
+
+恢复后先确认当前 Gate、已 LOCK / FINAL 的事实与真正未决的创意，再继续写。
 
 ## 创作基调
 
 整体希望具有宫藤官九郎式的节奏：刚让人哭出来就强迫人笑，笑着笑着反而更难受。
 
 名门女校的高雅感是真的，后台的狼狈也是真的；幕布拉开以后，裙摆依然能站成一条线。
+
+进一步的长期风格与协作原则见：
+
+`docs/writing/writers-room-collaboration-principles.md`
