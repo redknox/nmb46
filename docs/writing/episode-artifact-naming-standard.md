@@ -50,6 +50,22 @@ docs/episodes/epNN/
 | 16 | FINAL | `FINAL.md` | **只做状态索引 / 制作说明，不复制 screenplay 正文** |
 | 17 | Canon Propagation | `canon-propagation.md` | 全库同步清单与传播结果 |
 
+## 关于“必需步骤”与“文件长度”
+
+从 EP03 的流程复盘起，明确区分两件事：
+
+> **标准步骤是必需的；长篇文档不是必需的。**
+
+也就是说，一集进入 FINAL 前，上表中的标准产出物必须真实存在并反映该步骤已经完成；但如果某一关没有复杂发现，对应文件可以非常短，只需要记录：
+
+- 检查了什么；
+- 结论；
+- 是否有 RED / YELLOW；
+- 是否需要回退；
+- 当前状态。
+
+不能再用“这一步我们聊天里其实做过”代替稳定产出物，也不能为了显得完整而机械扩写没有信息价值的长文。
+
 ## 关于 STEP 3–8 的 review
 
 Beat Sheet / Scene List / Treatment 的压力测试原则上**吸收回同一个稳定权威文件**，而不是自动生成：
@@ -64,7 +80,7 @@ Beat Sheet / Scene List / Treatment 的压力测试原则上**吸收回同一个
 
 # 三、标准 episode 目录
 
-一集完整走到 FINAL 后，理想目录骨架为：
+一集完整走到 FINAL 后，标准目录骨架为：
 
 ```text
 docs/episodes/epNN/
@@ -83,12 +99,21 @@ docs/episodes/epNN/
 ├── final-read.md
 ├── FINAL.md
 ├── canon-propagation.md
-└── research/
+└── research/                 # 仅在确有独立研究材料时存在
 ```
 
 **不要为了目录整齐预先创建空文件。**
 
 进入某个流程节点时再建立对应产出物。文件的存在本身应当说明：这一关已经实际开始。
+
+但在请求 FINAL 前，必须执行一次目录级机械核对：
+
+- 标准产出物是否齐全；
+- 文件头状态是否与实际 Gate 一致；
+- 是否还有旧 `DRAFT / 暂名 / IN PROGRESS` 与当前事实冲突；
+- `FINAL.md` 将引用的文件是否真实存在。
+
+> **Scene Locks 全部 CLOSED 不等于 episode 已经 FINAL。**
 
 ---
 
@@ -129,6 +154,7 @@ research/screenplay-final-final.md # 禁止
 - `DRAFT`：当前流程节点正在形成；
 - `REVIEW`：正文已形成，正在本节点压力测试；
 - `LOCKED`：本节点已通过，后续只因硬问题重开；
+- `PASS / CLOSED`：审查型文件已完成并关闭；
 - `FINAL / LOCKED`：正片最终权威；
 - `REFERENCE`：研究 / 制作参考，不是当前正片权威；
 - `SUPERSEDED`：已被后续方案完全取代，保留仅供历史阅读。
@@ -156,6 +182,8 @@ research/screenplay-final-final.md # 禁止
 
 如果高层权威发生硬伤修订，必须向下游传播，不允许让 review 或研究稿继续描述旧事实。
 
+`FINAL.md` 是状态索引，不是第二份正片正文；它不能与 `screenplay.md` 竞争内容权威。
+
 ---
 
 # 七、FINAL 的文件规则
@@ -176,9 +204,34 @@ research/screenplay-final-final.md # 禁止
 
 这样不会出现两个“最终剧本”互相漂移。
 
+在 `FINAL.md` 建立前，必须确认：
+
+- `final-read.md` 已 PASS / CLOSED；
+- 所有 Scene Locks 已 CLOSED；
+- 标准 episode 文件齐全；
+- 文件状态没有互相矛盾。
+
 ---
 
-# 八、迁移规则
+# 八、Canon Propagation 的文件纪律
+
+`canon-propagation.md` 不只是记录“新增了什么”。至少分辨：
+
+- **Add**：新增长期事实；
+- **Remove**：删除已经被正片推翻的旧计划 / 旧未来；
+- **Reclassify**：调整事实等级、人物受力、信息确定性、前置方式等。
+
+传播完成后还必须记录一次 **Link / Status Audit**：
+
+- `FINAL.md` 中所有引用存在；
+- FINAL commit 正确；
+- README / 当前开发对象正确；
+- 没有悬空链接；
+- 没有继续宣称旧状态的项目级权威文件。
+
+---
+
+# 九、迁移规则
 
 ## EP01
 
@@ -202,10 +255,12 @@ EP05 在本标准建立前已产生大量 `v0.x / revision-v1.x` 文件。
 
 ---
 
-# 九、最终纪律
+# 十、最终纪律
 
 > **稳定文件名描述“它是什么”；文件头描述“它现在到哪一步”；Git 描述“它以前是什么”。**
 
 如果一个修改只是让同一产出物变得更准确，就修改原文件并 commit。
 
 只有信息职能真的不同，才创建新文件。
+
+> **不要用聊天记忆代替项目状态，不要用“场景都锁了”代替 FINAL，不要用新增 canon 掩盖仍然存活的旧 canon。**
