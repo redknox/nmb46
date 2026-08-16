@@ -92,6 +92,8 @@ EP04 让 EP03 已经成立的人进入文化祭准备这一组新的现实条件
 
 完整职业身份、关系与表演边界见：[`fukase-role-lock.md`](fukase-role-lock.md)。
 
+Day 4 第一次接触的场景机制见：[`day4-fukase-first-session-v0.1.md`](day4-fukase-first-session-v0.1.md)。当前已锁完整推进与三人权限，不锁最终对白及具体音乐材料。
+
 内部关系定义：
 
 > **Fukase 打开门；松隆子把门槛降到生田能迈进去。**
