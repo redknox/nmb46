@@ -10,7 +10,8 @@
 2. `episode-development-workflow.md` —— **按什么顺序工作**：STEP 0–17 的流程、Gate 与回退规则；
 3. `episode-artifact-naming-standard.md` —— **每一步的当前真相放在哪里**：标准产出物、文件名、状态与版本纪律；
 4. `dialogue-principles.md` —— 中文呈现下的日本关系对白；
-5. `audience-perspective-review.md` —— 去编剧知识后的观众视角审查。
+5. `non-explanation-principle.md` —— **本剧的主旨：不解释**。角色只负责活在场里，不负责把场解释给场外；
+6. `audience-perspective-review.md` —— 去编剧知识后的观众视角审查。
 
 其中：
 
@@ -28,9 +29,10 @@
 2. `writers-room-collaboration-principles.md`；
 3. `episode-development-workflow.md`；
 4. `episode-artifact-naming-standard.md`；
-5. 上一集 `FINAL.md` / `canon-propagation.md`；
-6. 当前开发集已有文件；
-7. 与当前集有关的 Series Bible / World / Structure 权威文件。
+5. `non-explanation-principle.md`；
+6. 上一集 `FINAL.md` / `canon-propagation.md`；
+7. 当前开发集已有文件；
+8. 与当前集有关的 Series Bible / World / Structure 权威文件。
 
 恢复后先确认：当前做到哪个 Gate、什么已经 LOCK / FINAL、什么仍是创意未决项。
 
@@ -45,6 +47,8 @@
 > **把编剧从流程劳动里解放出来，不是把编剧从创作里解放出来。**
 
 > **前期结构负责搭脚手架；逐场阶段仍然是正式创作。**
+
+> **本剧的主旨：不解释。观众理解不是角色的工作。**
 
 > **Assistant 负责把流程看牢；编剧始终留在“这场戏到底应该怎么活”的房间里。**
 
