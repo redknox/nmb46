@@ -8,7 +8,7 @@
 
 ---
 
-## DAY 2｜音乐别馆・合唱排练室｜AFTER SCHOOL
+## DAY 2｜音乐与美术别馆・合唱排练室｜AFTER SCHOOL
 
 钢琴已经打开。
 
