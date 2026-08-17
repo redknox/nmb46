@@ -478,8 +478,8 @@ EP05 才保留出口反向视点与西野的发现。
 ### STEP 1｜现实 / 制度压力测试
 
 - 剧内合唱作品的音乐合理性、两个版本、进入架构、排练流程与制作验收边界已经锁定，见 [`diegetic-choral-work-production-brief-lock.md`](diegetic-choral-work-production-brief-lock.md)；曲名、文本、调性、音域、和声、voicing 与具体音符留给作曲家和音乐团队；
-- 万理华五段制作所需的现实时间、人力、材料与空间；
-- 五个工作日内排练、制作、来访与场地使用是否能够同时成立。
+- 万理华五段制作的放样空间见 [`marika-layout-test-lock.md`](marika-layout-test-lock.md)，教学周制作、周末安装、周一文化祭、周二撤收与周三振替休日的制作时间及跨集日历见 [`../../structure/festival-week-calendar-lock.md`](../../structure/festival-week-calendar-lock.md)；
+- Day 1—Day 5 均为正常授课日，文化祭工作集中在放学后；音乐、美术、来访与联合项目使用不同的既有空间，周末再进入全天搬入、安装、彩排与安全确认，不要求 Day 5 全校已经 ready。
 
 ### STEP 2｜人物行为引擎跑测
 

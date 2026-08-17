@@ -28,6 +28,8 @@
 
 表演、空间轴、视线、声音与剪辑问题以 `performance-camera-space-locks-v0.1.md` 约束，不反向增加解释对白。
 
+跨集日历以 [`../../structure/festival-week-calendar-lock.md`](../../structure/festival-week-calendar-lock.md) 为权威：EP05 发生在 EP04 正常教学周及周末全天准备之后的周一 `海の日`；次日为撤收 / 复原日，周三为振替休日。该日历补充不改变本集任何已锁场次。
+
 ---
 
 ## 最终锁定状态
