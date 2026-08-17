@@ -6,7 +6,7 @@
 
 后续单集开发、长时间中断后的恢复、以及任何新的 ChatGPT 对话，默认按以下顺序读取并遵守：
 
-1. `writers-room-collaboration-principles.md` —— **我们怎样一起创作**：编剧参与边界、双阶段创作、逐场协作、一场一锁、Scene → World canon、特殊形式合同、FINAL readiness 与跨对话恢复协议；
+1. `writers-room-collaboration-principles.md` —— **我们怎样一起创作**：编剧参与边界、双阶段创作、逐场协作、一场一锁、Scene → World canon、特殊形式合同、FINAL readiness、一集一任编剧与跨对话恢复协议；
 2. `episode-development-workflow.md` —— **按什么顺序工作**：STEP 0–17 的流程、Gate 与回退规则；
 3. `episode-artifact-naming-standard.md` —— **每一步的当前真相放在哪里**：标准产出物、文件名、状态与版本纪律；
 4. `github-usage-standard.md` —— **锁定怎样进入远端历史**：草稿确认、直接 `main` / PR 双路径、原子提交、工作区安全、推送校验与交接；
@@ -57,5 +57,7 @@
 > **文件回答“现在是什么”；Git 回答“以前是什么”；Writers’ Room 原则回答“我们怎样一起继续写”。**
 
 > **讨论留在编剧室，当前事实写进文件，变化历史交给 Git；锁定只有到达远端才算完成。**
+
+> **一集一任编剧。前任可以留下火花，不能给继任者留下债务。**
 
 正常修订直接修改稳定产出物并 commit，不通过 `v0.1 / v0.2 / final-final` 保存版本历史。
