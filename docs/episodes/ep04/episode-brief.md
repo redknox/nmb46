@@ -519,6 +519,12 @@ EP05 才保留出口反向视点与西野的发现。
 - S03 榊陵进入保持桥段重量，Day 2 与 Day 4 专业长场不机械拆分；
 - Scene List 已通过 Gate 6，可以进入 STEP 7｜Treatment。
 
+### STEP 7｜Treatment
+
+- **进行中，逐场权威稿见 [treatment.md](treatment.md)。**
+- S01“原版已经成立”已锁定；
+- Treatment 按一场一锁推进，不因场次通过而提前冻结最终逐字对白与音乐材料。
+
 ### Scene / Screenplay 阶段
 
 - 松下解释“为什么是堀”的最终对白；
