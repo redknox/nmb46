@@ -441,9 +441,10 @@ Canon Propagation 结束后必须再做：
 2. `docs/writing/writers-room-collaboration-principles.md`
 3. `docs/writing/episode-development-workflow.md`
 4. `docs/writing/episode-artifact-naming-standard.md`
-5. 当前上一集的 `FINAL.md` / `canon-propagation.md`
-6. 当前开发集已有文件
-7. 与该集有关的 Series Bible / World / Structure 权威文件
+5. `docs/writing/github-usage-standard.md`
+6. 当前上一集的 `FINAL.md` / `canon-propagation.md`
+7. 当前开发集已有文件
+8. 与该集有关的 Series Bible / World / Structure 权威文件
 
 恢复后先回答：
 

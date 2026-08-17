@@ -48,12 +48,13 @@
 - `docs/writing/writers-room-collaboration-principles.md`
 - `docs/writing/episode-development-workflow.md`
 - `docs/writing/episode-artifact-naming-standard.md`
+- `docs/writing/github-usage-standard.md`
 - `docs/writing/dialogue-principles.md`
 - `docs/writing/audience-perspective-review.md`
 
 其中：
 
-> **Writers’ Room 原则决定“我们怎样一起写”；workflow 决定“按什么顺序工作”；naming standard 决定“每一步的当前真相放在哪里”。**
+> **Writers’ Room 原则决定“我们怎样一起写”；workflow 决定“按什么顺序工作”；naming standard 决定“每一步的当前真相放在哪里”；GitHub standard 决定“锁定怎样成为可验证的远端历史”。**
 
 > **把编剧从流程劳动里解放出来，不是把编剧从创作里解放出来。**
 
@@ -96,8 +97,10 @@ episode-brief.md
 1. `docs/writing/README.md`
 2. `docs/writing/writers-room-collaboration-principles.md`
 3. `docs/writing/episode-development-workflow.md`
-4. 上一集 `FINAL.md` / `canon-propagation.md`
-5. 当前开发集已有文件与相关 Series Bible / World / Structure 权威文件
+4. `docs/writing/episode-artifact-naming-standard.md`
+5. `docs/writing/github-usage-standard.md`
+6. 上一集 `FINAL.md` / `canon-propagation.md`
+7. 当前开发集已有文件与相关 Series Bible / World / Structure 权威文件
 
 恢复后先确认当前 Gate、已 LOCK / FINAL 的事实与真正未决的创意，再继续写。
 
