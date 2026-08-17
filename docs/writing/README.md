@@ -14,6 +14,8 @@
 6. `non-explanation-principle.md` —— **本剧的主旨：不解释**。角色只负责活在场里，不负责把场解释给场外；
 7. `audience-perspective-review.md` —— 去编剧知识后的观众视角审查。
 
+每集开工时，主创可打印 [`showrunner-episode-work-sheet.md`](showrunner-episode-work-sheet.md) 对应的固定版式工作单；PDF 位于 [`../../output/pdf/showrunner-episode-work-sheet.pdf`](../../output/pdf/showrunner-episode-work-sheet.pdf)。纸面工作单供主创圈画与记录，不替代 episode 权威文件或 Git 状态。
+
 其中：
 
 > **collaboration principles 决定“我们怎样一起写”；workflow 决定“按什么顺序工作”；naming standard 决定“每一步的当前真相放在哪里”；GitHub standard 决定“锁定怎样成为可验证的远端历史”。**
