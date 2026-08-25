@@ -37,6 +37,7 @@
 - `docs/structure/`：12 集结构、人物弧、伏笔与 Callback
 - `docs/episodes/`：逐集开发产出与正片剧本
 - `docs/world/`：学校空间、制度、世代与外部世界设定
+- `docs/production/`：制片、法务、版权清理与制作交付指导
 - `docs/writing/`：项目级编剧操作系统
 - `docs/writers-room/`：编剧室非正式传承、AI 助手留言与合作记忆；不是 canon
 - `docs/decisions/`：仍会影响后续创作的真正未决事项
