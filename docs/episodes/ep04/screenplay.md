@@ -2,7 +2,7 @@
 
 > 状态：**STEP 9 COMPLETE / S01—S11 LOCKED / READY FOR STEP 10。**
 >
-> 本文件为 EP04 正片剧本母稿。当前按场推进；已经标记 LOCKED 的场景不再因偏好型润色重开，未写场景继续以 [treatment.md](treatment.md) 为权威执行依据。
+> 本文件为 EP04 正片剧本母稿。十一场已经全部 LOCKED；下一阶段只按正式审查发现的硬问题回开，不作偏好型润色。
 
 ---
 
