@@ -539,7 +539,7 @@ EP05 才保留出口反向视点与西野的发现。
 ### STEP 9｜Screenplay｜IN PROGRESS
 
 - 当前正片母稿见 [screenplay.md](screenplay.md)；
-- S01“原版已经成立”已锁定；S02—S11 继续按逐场讨论、确认、落盘、提交的方式推进。
+- S01“原版已经成立”、S02“模型里没有真实的人”已锁定；S03—S11 继续按逐场讨论、确认、落盘、提交的方式推进。
 
 ### Scene / Screenplay 阶段
 
