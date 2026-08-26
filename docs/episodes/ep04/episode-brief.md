@@ -585,7 +585,7 @@ EP05 才保留出口反向视点与西野的发现。
 
 ### STEP 14｜表演 / 镜头 / 空间 / 声音审查｜PASS / CLOSED
 
-- 完整审查记录见 [performance-camera-space-sound-review.md](performance-camera-space-sound-review.md)；
+- 完整审查记录见 [performance-review.md](performance-review.md)；
 - 无剧本级 RED，不增加对白、不删场；
 - S03 修正唯一一处执行空间错误：合唱台固定在舞台右侧台待机，实寸确认框撤向舞台左侧台，经后台通道从西侧装卸口离馆；
 - S04 锁定中元的专业追问、堀与高三 ensemble 的真实可听差异，以及生田在信息不足时只完成已知任务并等待；
@@ -602,6 +602,15 @@ EP05 才保留出口反向视点与西野的发现。
 - S03 修正一处最终连续性错误：确认框已经从西侧装卸口离馆以后，休息中的学生改在舞台左侧台活动手指；
 - 正文少量声部编号排版空格已统一，不改变内容；
 - 下一步进入 STEP 16｜FINAL READY CHECK。
+
+### STEP 16｜FINAL READY CHECK｜PASS / READY
+
+- 标准产出物已齐全；STEP 14 审查文件已统一为标准文件名 [performance-review.md](performance-review.md)；
+- `scene-locks.md` S01—S11 全部 `LOCKED / CLOSED`，`final-read.md` 已 `PASS / CLOSED`；
+- Day 2—Day 5 四份阶段性场景稿已标记 `SUPERSEDED`，当前正片只以 `screenplay.md` 为权威；
+- 松下角色权限锁在本集内已完成传播；成人角色长期资料列入 STEP 17 Canon Propagation；
+- 唯一制作级 pending 为 S07《12人の優しい日本人》十二至二十秒授权段落，不构成剧本 RED，须在拍摄使用前完成版权许可；
+- 当前状态：**FINAL READY，等待主创明确确认 FINAL。**
 
 ## 十二、Gate 0 结论
 

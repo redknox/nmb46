@@ -1,6 +1,6 @@
 # EP04｜松下洸平角色权限锁
 
-> 状态：**LOCKED / 后续需传播到 Episode Brief、Scene Lock 与成人角色关系资料。**
+> 状态：**LOCKED / 已传播到 Episode Brief、Scene Locks 与 Screenplay；成人角色长期资料列入 STEP 17 Canon Propagation。**
 >
 > 本文件只锁定松下洸平在 EP04 中的身份层级与职责边界；与乃木坂女学院的具体合作历史、交往频率、关系起点及私人熟悉程度，留待后续根据剧情需要设计。
 
