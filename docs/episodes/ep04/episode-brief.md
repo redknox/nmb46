@@ -583,43 +583,12 @@ EP05 才保留出口反向视点与西野的发现。
 - Scene List 结尾“全剧结束 / 全集结束”统一修正为“本集结束”；
 - 下一步进入 STEP 14｜表演 / 镜头 / 空间 / 声音审查。
 
-### STEP 14｜表演 / 镜头 / 空间 / 声音审查｜PASS / CLOSED
+### Scene / Screenplay 阶段
 
-- 完整审查记录见 [performance-review.md](performance-review.md)；
-- 无剧本级 RED，不增加对白、不删场；
-- S03 修正唯一一处执行空间错误：合唱台固定在舞台右侧台待机，实寸确认框撤向舞台左侧台，经后台通道从西侧装卸口离馆；
-- S04 锁定中元的专业追问、堀与高三 ensemble 的真实可听差异，以及生田在信息不足时只完成已知任务并等待；
-- S06 不以观察窗、谱面或琴键图解生田的问题；S08 电话保留车站现实声音与单端权限；
-- S09 不把 Fukase 拍成明星嘉宾或作品认证者；S10 不把松隆子拍成纠正 / 拯救 Fukase；
-- S11 以连续真实琴声完成“相同第一个音、不同第二个音”，不使用配乐、见证者或领悟特写；
-- 早期 `performance-direction-locks.md` 已同步当前锁定事实；
-- 下一步进入 STEP 15｜最终无工具通读。
-
-### STEP 15｜最终无工具通读｜PASS / CLOSED
-
-- 完整记录见 [final-read.md](final-read.md)；
-- 全集作为电视剧连续观看成立，不需要重开任何场次，不压缩 S04 或 S10；
-- S03 修正一处最终连续性错误：确认框已经从西侧装卸口离馆以后，休息中的学生改在舞台左侧台活动手指；
-- 正文少量声部编号排版空格已统一，不改变内容；
-- 下一步进入 STEP 16｜FINAL READY CHECK。
-
-### STEP 16｜FINAL READY CHECK｜PASS / READY
-
-- 标准产出物已齐全；STEP 14 审查文件已统一为标准文件名 [performance-review.md](performance-review.md)；
-- `scene-locks.md` S01—S11 全部 `LOCKED / CLOSED`，`final-read.md` 已 `PASS / CLOSED`；
-- Day 2—Day 5 四份阶段性场景稿已标记 `SUPERSEDED`，当前正片只以 `screenplay.md` 为权威；
-- 松下角色权限锁在本集内已完成传播；成人角色长期资料列入 STEP 17 Canon Propagation；
-- 唯一制作级 pending 为 S07《12人の優しい日本人》十二至二十秒授权段落，不构成剧本 RED，须在拍摄使用前完成版权许可；
-- 主创已明确确认 FINAL；正片权威见 [screenplay.md](screenplay.md)，状态索引见 [FINAL.md](FINAL.md)。
-- 下一步进入 STEP 17｜Canon Propagation。
-
-### STEP 17｜Canon Propagation｜COMPLETE / CLOSED
-
-- 完整传播记录见 [canon-propagation.md](canon-propagation.md)；
-- Add / Remove / Reclassify 及 EP05 依赖检查已完成；
-- README 与项目级人物、关系、季结构、Callbacks、后辈设定均已同步；
-- EP05 正片不需重开，只修正一份早期表演锁中的成人专业二元；
-- EP04 全流程关闭，下一正式开发对象由主创另行指定。
+- 松下解释“为什么是堀”的最终对白；
+- 松下要求四拍连接时的具体工作语言；
+- Day 4 演奏室内的最终音乐对白；
+- 所有停顿、视线、声音长度及表演颗粒度。
 
 ## 十二、Gate 0 结论
 
