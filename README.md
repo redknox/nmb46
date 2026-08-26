@@ -29,7 +29,7 @@
 - EP02《裙摆》：**FINAL / LOCKED**
 - EP03《午休》：**FINAL / LOCKED**
 - EP04《音乐室》：**FINAL / LOCKED**
-- EP05《文化祭》：**FINAL**
+- EP05《文化祭》：**FINAL / LOCKED**
 - 下一正式开发对象：**待主创指定**。EP04 编剧已按“一集一编剧”纪律停止跨集正式编写。
 
 ## 文档结构

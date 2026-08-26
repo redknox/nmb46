@@ -8,9 +8,9 @@
 
 - 工作状态：`POST-FINAL`
 - 当前正式开发对象：待主创指定
-- 最近完成：EP04《音乐室》`FINAL / LOCKED`，Canon Propagation 与交棒完成
-- 已有后续状态：EP05《文化祭》已有 `FINAL`
-- 本任编剧：久世灯；不进入其他单集正式开发
+- 最近完成：EP05《文化祭》完成权威文本迁移、`FINAL / LOCKED` 与 Canon Propagation
+- EP01—EP05 均为 `FINAL / LOCKED`
+- 下一正式开发对象仍待主创指定；不自行进入 EP06
 
 ## 下一次正式开工
 
