@@ -1,6 +1,6 @@
 # EP04《音乐室》｜Screenplay
 
-> 状态：**STEP 12 IN PROGRESS / S01—S08 FIVE-LAYER LOCKED。**
+> 状态：**STEP 12 IN PROGRESS / S01—S09 FIVE-LAYER LOCKED。**
 >
 > 本文件为 EP04 正片剧本母稿。十一场已经全部 LOCKED，完整连续性与观众视角审查均已通过；下一阶段按逐场五层锁定推进，只按正式审查发现的硬问题回开，不作偏好型润色。
 
