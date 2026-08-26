@@ -613,6 +613,14 @@ EP05 才保留出口反向视点与西野的发现。
 - 主创已明确确认 FINAL；正片权威见 [screenplay.md](screenplay.md)，状态索引见 [FINAL.md](FINAL.md)。
 - 下一步进入 STEP 17｜Canon Propagation。
 
+### STEP 17｜Canon Propagation｜COMPLETE / CLOSED
+
+- 完整传播记录见 [canon-propagation.md](canon-propagation.md)；
+- Add / Remove / Reclassify 及 EP05 依赖检查已完成；
+- README 与项目级人物、关系、季结构、Callbacks、后辈设定均已同步；
+- EP05 正片不需重开，只修正一份早期表演锁中的成人专业二元；
+- EP04 全流程关闭，下一正式开发对象由主创另行指定。
+
 ## 十二、Gate 0 结论
 
 ### 本集为什么存在

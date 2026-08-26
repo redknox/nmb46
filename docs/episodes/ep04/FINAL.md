@@ -110,6 +110,8 @@ S07 使用《12人の優しい日本人》约十二至二十秒排练段落。�
 
 # Canon Propagation
 
-**STEP 17：IN PROGRESS。**
+**STEP 17：COMPLETE / CLOSED。**
 
-传播完成后建立 `canon-propagation.md`，同步项目级人物、世界、季结构、Callbacks、README 与后续集前提。
+- 传播记录：[canon-propagation.md](canon-propagation.md)
+- 项目级 canon 传播 commit：`6e1dd71875c70df1c7944781e2a7e126c772c9c5`
+- 已同步 README、季结构、季行为跑测、人物受力矩阵、Callbacks、人物 / 成人角色、后辈设定及 EP05 表演接口。
