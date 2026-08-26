@@ -190,14 +190,29 @@ def page_one(c):
         x += w_mm * mm + gap
 
     top -= 18 * mm
+    room_top = top
+    top = writing_box(
+        c,
+        MARGIN,
+        top,
+        CONTENT_W,
+        31 * mm,
+        "ROOM OPEN｜编剧室开场",
+        "先发散：想看见谁？什么令人兴奋？编剧主动带来了什么？主创确认感觉对齐后，才进入 STEP 0。",
+        2,
+    ) - 4 * mm
+    checkbox(c, MARGIN + CONTENT_W - 42 * mm, room_top - 3 * mm, 3.2 * mm)
+    c.setFillColor(ACCENT)
+    c.setFont(CN, 7.2)
+    c.drawString(MARGIN + CONTENT_W - 37 * mm, room_top - 6.1 * mm, "主创：可以进入工作状态")
     left_w = 112 * mm
     right_x = MARGIN + left_w + 5 * mm
     right_w = CONTENT_W - left_w - 5 * mm
-    b1 = writing_box(c, MARGIN, top, left_w, 39 * mm, "本集为什么存在", "一句话说不清，就先不进入 Beat Sheet。", 4)
-    b2 = writing_box(c, right_x, top, right_w, 39 * mm, "表层发生什么", "观众这一集实际看见的事件。", 4)
+    b1 = writing_box(c, MARGIN, top, left_w, 29 * mm, "本集为什么存在", "一句话说不清，就先不进入 Beat Sheet。", 2)
+    b2 = writing_box(c, right_x, top, right_w, 29 * mm, "表层发生什么", "观众这一集实际看见的事件。", 2)
     top = min(b1, b2) - 4 * mm
-    b1 = writing_box(c, MARGIN, top, left_w, 35 * mm, "本集真正改变什么", "人物行为顺序、关系、世界状态或观众认知。", 3)
-    b2 = writing_box(c, right_x, top, right_w, 35 * mm, "结尾状态 / 最后一幅画面", None, 4)
+    b1 = writing_box(c, MARGIN, top, left_w, 28 * mm, "本集真正改变什么", "人物行为顺序、关系、世界状态或观众认知。", 2)
+    b2 = writing_box(c, right_x, top, right_w, 28 * mm, "结尾状态 / 最后一幅画面", None, 2)
     top = min(b1, b2) - 4 * mm
 
     section_title(c, "人物压力等级", MARGIN, top, CONTENT_W)
@@ -208,15 +223,15 @@ def page_one(c):
         ("M", "主推进"), ("S", "次推进"), ("L", "被照亮"), ("R", "休息")
     ]):
         x = MARGIN + idx * (col_w + col_gap)
-        writing_box(c, x, top, col_w, 25 * mm, f"{code}｜{desc}", None, 2)
-    top -= 29 * mm
+        writing_box(c, x, top, col_w, 21 * mm, f"{code}｜{desc}", None, 1)
+    top -= 25 * mm
 
     half = (CONTENT_W - 5 * mm) / 2
-    b1 = writing_box(c, MARGIN, top, half, 31 * mm, "禁止提前消费", "人物弧、秘密、关系或后续集的重量。", 3)
-    b2 = writing_box(c, MARGIN + half + 5 * mm, top, half, 31 * mm, "明确留给后续", None, 3)
+    b1 = writing_box(c, MARGIN, top, half, 25 * mm, "禁止提前消费", "人物弧、秘密、关系或后续集的重量。", 2)
+    b2 = writing_box(c, MARGIN + half + 5 * mm, top, half, 25 * mm, "明确留给后续", None, 2)
     top = min(b1, b2) - 4 * mm
-    b1 = writing_box(c, MARGIN, top, half, 37 * mm, "非拍不可的三场戏", "如果只能留下三场，会是哪三场？", 3)
-    b2 = writing_box(c, MARGIN + half + 5 * mm, top, half, 37 * mm, "当前最大的担心", "如果不好看，最可能死在哪里？", 4)
+    b1 = writing_box(c, MARGIN, top, half, 31 * mm, "非拍不可的三场戏", "如果只能留下三场，会是哪三场？", 2)
+    b2 = writing_box(c, MARGIN + half + 5 * mm, top, half, 31 * mm, "当前最大的担心", "如果不好看，最可能死在哪里？", 3)
 
 
 STEPS_EARLY = [
@@ -305,6 +320,7 @@ def page_four(c):
 
 COMMANDS = [
     ("发散", "给不同可能性，不决定、不落盘"),
+    ("进入工作状态", "Room Opening 对齐完成，进入 STEP 0"),
     ("收束", "停止扩展，形成当前方案"),
     ("写一版看看", "给完整草案，只展示"),
     ("重构", "保留目标，重新组织实现"),
@@ -325,6 +341,8 @@ COMMANDS = [
 ]
 
 TERMS = [
+    ("ROOM OPEN / DEVELOPMENT", "发散对齐 / 正式单集开发"),
+    ("FINALIZATION / POST-FINAL", "定稿传播 / 交棒后非 canon"),
     ("STEP / Gate", "流程节点 / 进入下一层的通过条件"),
     ("DRAFT / REVIEW", "正在形成 / 正在本节点压力测试"),
     ("LOCKED / CLOSED", "创作单元冻结 / 审查完成关闭"),
@@ -411,7 +429,7 @@ def page_six(c):
     safeguards = [
         "如果摄影机今天没来，这件事本来会发生吗？",
         "不值得拍的，宁可不拍。    专业归专业，情感归情感。    克制不是没有反应。",
-        "观众必须知道故事，不必知道我们的感悟。    文件回答现在是什么；Git 回答以前是什么。",
+        "角色可以说明真实需要；不替观众总结意义。    文件回答现在是什么；Git 回答以前是什么。",
     ]
     y = 39 * mm
     for line in safeguards:

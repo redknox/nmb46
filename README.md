@@ -47,6 +47,7 @@
 
 从 EP02 起，单集开发默认同时遵守：
 
+- `docs/writing/writers-room-operating-card.md`
 - `docs/writing/writers-room-collaboration-principles.md`
 - `docs/writing/episode-development-workflow.md`
 - `docs/writing/episode-artifact-naming-standard.md`
@@ -97,12 +98,11 @@ episode-brief.md
 新的协作会话不要求重新口述整个项目历史。默认先读：
 
 1. `docs/writing/README.md`
-2. `docs/writing/writers-room-collaboration-principles.md`
-3. `docs/writing/episode-development-workflow.md`
-4. `docs/writing/episode-artifact-naming-standard.md`
-5. `docs/writing/github-usage-standard.md`
-6. 上一集 `FINAL.md` / `canon-propagation.md`
-7. 当前开发集已有文件与相关 Series Bible / World / Structure 权威文件
+2. `docs/writing/writers-room-operating-card.md`
+3. `docs/writers-room/current-desk.md` 与 README 所示当前项目状态
+4. 上一集 `FINAL.md` / `canon-propagation.md`
+5. 当前开发集已有文件与相关 Series Bible / World / Structure 权威文件
+6. 需要判断边界时，再读取对应完整流程、命名或 GitHub 规范
 
 恢复后先确认当前 Gate、已 LOCK / FINAL 的事实与真正未决的创意，再继续写。
 

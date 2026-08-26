@@ -32,6 +32,8 @@ docs/episodes/epNN/
 
 # 二、STEP 0–17 标准产出物
 
+正式开发前的 `ROOM OPEN` 不创建 episode 产出物。只有主创确认感觉已经对齐、允许进入工作状态以后，才建立 STEP 0 的 `episode-brief.md`。不要为了证明发散发生过而增加 `brainstorm-v1`、`pre-brief` 或空白占位文件。
+
 | STEP | 流程节点 | 标准文件 | 说明 |
 |---|---|---|---|
 | 0 | 本集任务定义 | `episode-brief.md` | 表层事件、真正变化、M/S/L/R、禁止提前消费内容、结尾新增认知 |
@@ -158,6 +160,8 @@ research/screenplay-final-final.md # 禁止
 - `FINAL / LOCKED`：正片最终权威；
 - `REFERENCE`：研究 / 制作参考，不是当前正片权威；
 - `SUPERSEDED`：已被后续方案完全取代，保留仅供历史阅读。
+
+`ROOM OPEN / DEVELOPMENT / FINALIZATION / POST-FINAL` 是编剧室工作状态，不是 episode 文件头状态，不能代替上列文档状态。
 
 不要用：
 

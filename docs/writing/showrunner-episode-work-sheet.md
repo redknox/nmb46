@@ -19,6 +19,9 @@ PDF 生成器使用 SIL Open Font License 1.1 授权的 [LXGW WenKai Lite](https
 
 主创手写区：
 
+- Room Opening：此刻想看见谁、什么令人兴奋、编剧主动带来了什么；
+- 感觉是否已经对齐；
+- 主创确认：可以进入工作状态；
 - 本集为什么存在；
 - 表层发生什么；
 - 本集真正改变什么；
@@ -82,6 +85,7 @@ PDF 生成器使用 SIL Open Font License 1.1 授权的 [LXGW WenKai Lite](https
 | 指令 | 默认含义 |
 |---|---|
 | 发散 | 给出不同可能性，不做决定、不落盘 |
+| 进入工作状态 | Room Opening 对齐完成，允许进入 STEP 0 |
 | 收束 | 停止扩展，形成当前方案 |
 | 写一版看看 | 给完整草案，只展示 |
 | 重构 | 保留目标，重新组织实现方式 |
@@ -105,6 +109,8 @@ PDF 生成器使用 SIL Open Font License 1.1 授权的 [LXGW WenKai Lite](https
 ## 第 6 页｜术语速查
 
 - **STEP / Gate**：流程节点 / 进入下一层前的通过条件。
+- **ROOM OPEN / DEVELOPMENT / FINALIZATION / POST-FINAL**：编剧室发散 / 正式开发 / 定稿传播 / 交棒后非 canon 状态。
+- **共同创作 / Assistant 先行检查**：必须共同判断 / Assistant 可先完成机械工作、发现取舍再返回编剧室。
 - **DRAFT / REVIEW / LOCKED / CLOSED / FINAL**：文件或审查状态。
 - **Beat / Scene / Sequence**：因果节拍 / 场景 / 连续段落。
 - **Treatment / Screenplay**：可拍执行层 / 正片剧本母稿。
