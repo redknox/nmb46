@@ -610,7 +610,8 @@ EP05 才保留出口反向视点与西野的发现。
 - Day 2—Day 5 四份阶段性场景稿已标记 `SUPERSEDED`，当前正片只以 `screenplay.md` 为权威；
 - 松下角色权限锁在本集内已完成传播；成人角色长期资料列入 STEP 17 Canon Propagation；
 - 唯一制作级 pending 为 S07《12人の優しい日本人》十二至二十秒授权段落，不构成剧本 RED，须在拍摄使用前完成版权许可；
-- 当前状态：**FINAL READY，等待主创明确确认 FINAL。**
+- 主创已明确确认 FINAL；正片权威见 [screenplay.md](screenplay.md)，状态索引见 [FINAL.md](FINAL.md)。
+- 下一步进入 STEP 17｜Canon Propagation。
 
 ## 十二、Gate 0 结论
 
