@@ -6,11 +6,12 @@
 
 ## 当前
 
-- 工作状态：`POST-FINAL`
+- 工作状态：`ROOM OPEN`
 - 当前正式开发对象：待主创指定
 - 最近完成：EP05《文化祭》完成权威文本迁移、`FINAL / LOCKED` 与 Canon Propagation
 - EP01—EP05 均为 `FINAL / LOCKED`
-- 下一正式开发对象仍待主创指定；不自行进入 EP06
+- 当前正式开发对象：EP06《放学以后》
+- 尚未进入 STEP 0；当前只发散、聊天和磨合，不建立 episode 产出物
 
 ## 下一次正式开工
 
