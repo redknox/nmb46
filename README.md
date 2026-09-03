@@ -30,7 +30,7 @@
 - EP03《午休》：**FINAL / LOCKED**
 - EP04《音乐室》：**FINAL / LOCKED**
 - EP05《文化祭》：**FINAL / LOCKED**
-- 下一正式开发对象：**EP06《放学以后》**，当前处于 `ROOM OPEN`；尚未进入 STEP 0。
+- 当前正式开发对象：**EP06《放学以后》**，处于 `DEVELOPMENT / STEP 9 Screenplay`；Treatment 已通过 Gate 8 并锁定。
 
 ## 文档结构
 
