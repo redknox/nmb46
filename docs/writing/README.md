@@ -11,7 +11,8 @@
 3. `episode-development-workflow.md` —— **按什么顺序工作**：Room Opening 与 STEP 0–17；
 4. `episode-artifact-naming-standard.md` —— **每一步的当前真相放在哪里**；
 5. `github-usage-standard.md` —— **锁定怎样进入远端历史**；
-6. `dialogue-principles.md`、`non-explanation-principle.md`、`audience-perspective-review.md` —— 进入对应写作 / 审查阶段时使用，不为恢复状态机械通读。
+6. `character-age-translation-principle.md` —— **人物年龄转译**：保留稳定性格，剥离成年完成度，让每个人重新成为尚未完成的十七八岁；
+7. `dialogue-principles.md`、`non-explanation-principle.md`、`audience-perspective-review.md` —— 进入对应写作 / 审查阶段时使用，不为恢复状态机械通读。
 
 每集开工时，主创可打印 [`showrunner-episode-work-sheet.md`](showrunner-episode-work-sheet.md) 对应的固定版式工作单；PDF 位于 [`../../output/pdf/showrunner-episode-work-sheet.pdf`](../../output/pdf/showrunner-episode-work-sheet.pdf)。纸面工作单供主创圈画与记录，不替代 episode 权威文件或 Git 状态。
 
