@@ -6,11 +6,11 @@
 
 ## 当前
 
-- 工作状态：`FINALIZATION`
-- 最近完成：EP06《放学以后》STEP 16 FINAL READY CHECK 与主创最终确认；正片 `FINAL / LOCKED`
-- EP01—EP05 均为 `FINAL / LOCKED`
-- 当前正式开发对象：EP06《放学以后》
-- 当前节点：STEP 17｜Canon Propagation
+- 工作状态：`POST-FINAL`
+- 最近完成：EP06《放学以后》FINAL、STEP 17 Canon Propagation 与 Link / Status Audit
+- EP01—EP06 均为 `FINAL / LOCKED`
+- 当前正式开发对象：无；下一集待主创指定
+- 当前节点：EP06 完成交棒
 
 ## 当前锁定
 
@@ -20,7 +20,7 @@ EP06处理文化祭共同体退场后的第一次普通放学：当学校不再�
 
 ## 下一问题
 
-执行全库 Add / Remove / Reclassify 检查，将 EP06 正片新成立的长期事实传播到人物、关系、结构、回调、World 与项目状态；随后完成 Link / Status Audit 和远端同步。
+不自行进入下一集正式开发。由下一任 Assistant 编剧读取权威状态，并在主创指定新对象后从对应正式起点开始。
 
 ## 最近形成的调性认识
 

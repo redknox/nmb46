@@ -4,7 +4,11 @@
 >
 > 定稿日期：2026-09-07。
 >
-> 本文件只索引当前权威链，不复制正片正文；正片锁定提交将在 STEP 17 Canon Propagation 中准确补记。
+> FINAL 状态提交：`94286d71a41abb6c71d90cc34ae41345a0bcaa55`。
+>
+> 完整性修复暨正片锁定基准：`a89f317ce19579366cb2ebcdb65cd3e19a41f011`。
+>
+> 本文件只索引当前权威链，不复制正片正文。`94286d7` 发布时三份长文件遭接口截断；`a89f317` 以非改写历史的修复提交恢复完整内容，后者为实际可引用的 FINAL 文件树。
 
 ## 权威文本
 
@@ -12,6 +16,7 @@
 - 场次锁：`scene-locks.md`
 - 最终审查：`continuity-review.md`、`audience-review.md`、`rhythm-review.md`、`performance-review.md`、`final-read.md`
 - 结构与制作依据：`episode-brief.md`、`reality-review.md`、`behavior-run.md`、`beat-sheet.md`、`scene-list.md`、`treatment.md`
+- 全库传播：`canon-propagation.md`
 
 讨论稿、试写片段与被替换的对白不构成当前权威；其创作过程由 Git 历史保存。
 
