@@ -6,11 +6,11 @@
 
 ## 当前
 
-- 工作状态：`POST-FINAL`
+- 工作状态：`POST-FINAL / IDLE`
 - 最近完成：EP07《夏天》FINAL / LOCKED
 - EP01—EP07 均为 `FINAL / LOCKED`
+- EP07 STEP17 Canon Propagation / Link & Status Audit：**PASS / CLOSED**
 - 下一正式开发对象：**待主创指定**
-- 当前节点：STEP17 Canon Propagation / Link & Status Audit 收口
 
 ## EP07 最终锁定
 
@@ -42,6 +42,7 @@ S10 只做夏夜 MV 余韵，不新增人物线；S11 用充电器回跑打断�
 - 只有连续性硬伤、现实 / 制度错误、安全、制作不可执行、A类观众信息 RED 或明显人物硬伤可以重开。
 - EP07 没有“明年可能没有合宿”的剧情，也没有角色意识到“这是最后一个夏天”。
 - EP07 不提前消费飞鸟 EP08、高山 EP11、真夏 EP11、桥本 EP09。
+- 白石后续可以验证 EP07 的变化，但不要再重讲“狼狈 / 完美”这一课。
 
 ## 最近形成的调性认识
 
