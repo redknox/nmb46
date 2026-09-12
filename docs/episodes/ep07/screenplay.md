@@ -1,8 +1,8 @@
 # EP07《夏天》｜Screenplay
 
-> 状态：**LOCKED / FINAL READY**
+> 状态：**FINAL / LOCKED。正片权威文本。**
 >
-> 说明：S01–S12 已统一并入本文件。STEP10–15 已通过；等待主创明确确认 FINAL 后，将文件头改为 `FINAL / LOCKED`。
+> 说明：S01–S12 已统一并入本文件。STEP10–15 已通过，主创已确认 EP07 FINAL。
 
 ---
 
