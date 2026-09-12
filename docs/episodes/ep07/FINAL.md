@@ -18,6 +18,7 @@
 - STEP 14 Performance / Camera / Space / Sound Review：PASS / CLOSED
 - STEP 15 Final Read：PASS / CLOSED
 - STEP 16 FINAL：主创已明确确认
+- STEP 17 Canon Propagation / Link & Status Audit：PASS / CLOSED
 
 ## 制作级硬锁
 
@@ -33,4 +34,8 @@
 
 ## Canon Propagation
 
-进入 STEP17，结果记录于 `canon-propagation.md`。
+- 状态：**PASS / CLOSED**
+- 记录：`canon-propagation.md`
+- Propagation completion commit: `d1b6114ba0202244df7ff2ab301cd8da03a045a9`
+
+EP07 已完成单集 FINAL 与全库传播。下一正式开发对象由主创指定。
