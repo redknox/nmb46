@@ -5,8 +5,9 @@
 ## 正片权威
 
 - `screenplay.md`
+- screenplay FINAL status commit：`d041663e3e80615b3bc6d3a39444bf0ae6c9be87`
 - Showrunner FINAL：已于 STEP16 明确确认
-- FINAL index commit：以本文件创建 commit 为准
+- FINAL index initial commit：`6d1f81daf0d42727cdbe0ceccab4303e96cfee3f`
 
 ## 已通过流程
 
@@ -19,7 +20,7 @@
 - STEP 14 Performance / Shot / Space / Sound Review：PASS / CLOSED
 - STEP 15 Final Read：PASS / CLOSED
 - STEP 16 FINAL：主创已明确确认
-- STEP 17 Canon Propagation / Link & Status Audit：待执行
+- STEP 17 Canon Propagation / Link & Status Audit：PASS / CLOSED
 
 ## 制作级硬锁
 
@@ -42,9 +43,18 @@
 
 `screenplay.md` 是 EP09 正片最高权威。`FINAL.md` 只做状态索引，不复制正文。
 
+EP09 后续长期人物与进路事实另由：
+
+- `docs/structure/ep09-final-canon-lock.md`
+
+负责锁定跨集连续性。
+
 ## Canon Propagation
 
-- 状态：**PENDING / STEP17**
-- 记录文件：`canon-propagation.md`（进入 STEP17 时建立）
+- 状态：**PASS / CLOSED**
+- 记录：`canon-propagation.md`
+- Propagation completion commit：`f8f9447ae21cf146858d1017394da708211cba1e`
 
-EP09 已完成 STEP16 Showrunner FINAL。下一流程为 STEP17 Canon Propagation / Link & Status Audit。
+EP09 已完成单集 FINAL 与全库传播。EP08 尚未开发属于有意的非线性开发顺序；未来补写 EP08 必须反向尊重 EP09 FINAL。
+
+下一正式开发对象由主创指定。
