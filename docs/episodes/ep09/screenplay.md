@@ -1,6 +1,6 @@
 # EP09《选择》｜Screenplay
 
-> 状态：**STEP9 COMPLETE / SHOWRUNNER LOCKED**
+> 状态：**FINAL / LOCKED。正片权威文本。**
 >
 > 编剧：水野遥（Mizuno Haruka）
 >
