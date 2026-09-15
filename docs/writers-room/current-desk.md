@@ -14,7 +14,8 @@
 - STEP12 Scene Locks：**PASS / CLOSED**
 - STEP13 Rhythm Check：**PASS / CLOSED**
 - STEP14 Performance / Shot / Space / Sound：**PASS / CLOSED**
-- 下一流程入口：**STEP15 Final No-Tool Read**
+- STEP15 Final No-Tool Read：**PASS / CLOSED**
+- 下一流程入口：**STEP16 FINAL READY CHECK / Showrunner FINAL**
 - EP08 尚未开发；这是有意的非线性开发顺序，不是材料缺失。
 
 ## EP09 当前锁定
@@ -35,23 +36,24 @@ EP09 位于高三深秋（10 月下旬至 11 月），核心不是“桥本选�
 
 S10 不形成依赖承诺；分享问题不等于交出决定权。S13 只做主动告知与轻情绪收尾，不提前消费毕业离别。
 
-## STEP10–14 结果
+## STEP10–15 结果
 
 - STEP10 Continuity：唯一硬问题为 S11 “想学什么”重复，已机械修复；其余无须重开。
 - STEP11 Audience：A 类 RED 为 0；S07 群像切换、S10 长对白表演、S11 表格 / 网页信息属于执行 YELLOW。
 - STEP12 Scene Locks：S01–S08、S10–S13 现有 Screenplay LOCK 全部继续有效；S09 已吸收进 S07。五层复核无场景需要重新打开创作。
 - STEP13 Rhythm：不删 S07 人物，不压短 S10，不删 S11 信息文本。三者分别通过蒙太奇剪辑、对白呼吸与读屏分层解决执行节奏；未发现需要重开 Scene LOCK 的节奏硬伤。
-- STEP14 Performance / Shot / Space / Sound：不修改 screenplay。重点防止 S10 演成友情宣言、S11 拍成资料检索蒙太奇、S13 拍成毕业预告；S07 通过连续动作与声音完成群像切换。所有主题性时刻避免用推近、慢镜或配乐替观众宣布意义。
+- STEP14 Performance / Shot / Space / Sound：不修改 screenplay。重点防止 S10 演成友情宣言、S11 拍成资料检索蒙太奇、S13 拍成毕业预告；S07 通过连续动作与声音完成群像切换。
+- STEP15 Final No-Tool Read：**PASS / CLOSED**。整集连续阅读成立；人物仍有生活感，没有被 QA 修成“太正确”的样子。S10 仍是最需克制执行的一场，但文本本身不需重开。S13 的普通午休结尾成立。
 
-## STEP15 带入项
+## STEP16 前唯一提醒
 
-最终无工具通读时暂时关掉 checklist、人物卡、RED / YELLOW、结构图与创作会议说明，只把 EP09 当作一集电视剧看：
+`episode-brief.md` 早期曾预设桥本最终可能说：
 
-- 好不好看；
-- 人物是否还活着；
-- 是否留下“编剧非常努力”的痕迹；
-- 是否因为流程检查而变得太正确；
-- 结尾情绪是否仍属于当下，而不是作者提前替毕业伤感。
+> “……还挺舍不得的。”
+
+当前正式 Screenplay 已经没有这句，而且 STEP15 判断：**不应补回。**
+
+“舍不得”已经由白石的寂寞、桥本主动告知、两人的笑以及继续去买饭共同承担。STEP16 READY CHECK 只需防止把这个早期意图误判成当前剧本遗漏。
 
 ## 开发顺序说明
 
