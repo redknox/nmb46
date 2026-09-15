@@ -15,7 +15,8 @@
 - STEP13 Rhythm Check：**PASS / CLOSED**
 - STEP14 Performance / Shot / Space / Sound：**PASS / CLOSED**
 - STEP15 Final No-Tool Read：**PASS / CLOSED**
-- 下一流程入口：**STEP16 FINAL READY CHECK / Showrunner FINAL**
+- STEP16 FINAL READY CHECK：**PASS**
+- 当前等待：**Showrunner FINAL 确认**
 - EP08 尚未开发；这是有意的非线性开发顺序，不是材料缺失。
 
 ## EP09 当前锁定
@@ -45,15 +46,20 @@ S10 不形成依赖承诺；分享问题不等于交出决定权。S13 只做主
 - STEP14 Performance / Shot / Space / Sound：不修改 screenplay。重点防止 S10 演成友情宣言、S11 拍成资料检索蒙太奇、S13 拍成毕业预告；S07 通过连续动作与声音完成群像切换。
 - STEP15 Final No-Tool Read：**PASS / CLOSED**。整集连续阅读成立；人物仍有生活感，没有被 QA 修成“太正确”的样子。S10 仍是最需克制执行的一场，但文本本身不需重开。S13 的普通午休结尾成立。
 
-## STEP16 前唯一提醒
+## FINAL READY CHECK
 
-`episode-brief.md` 早期曾预设桥本最终可能说：
+已完成目录级机械核对：
 
-> “……还挺舍不得的。”
+- 标准 STEP0–15 产出物齐全；
+- 已补标准 `scene-locks.md`；
+- `final-read.md` 为 PASS / CLOSED；
+- Scene Locks 全部 CLOSED；
+- `scene-list.md` 已同步当前 S02，不再保留旧学费减免手续；
+- `episode-brief.md` 已同步当前 S13，不再把早期“还挺舍不得的”当作待补台词；
+- `screenplay.md` 保持 SHOWRUNNER LOCKED，尚未提前标 FINAL；
+- 未发现阻塞 FINAL 的旧 DRAFT / IN PROGRESS 权威状态。
 
-当前正式 Screenplay 已经没有这句，而且 STEP15 判断：**不应补回。**
-
-“舍不得”已经由白石的寂寞、桥本主动告知、两人的笑以及继续去买饭共同承担。STEP16 READY CHECK 只需防止把这个早期意图误判成当前剧本遗漏。
+因此 EP09 已具备请求主创 FINAL 的条件。
 
 ## 开发顺序说明
 
