@@ -32,8 +32,12 @@
 - EP05《文化祭》：**FINAL / LOCKED**
 - EP06《放学以后》：**FINAL / LOCKED**
 - EP07《夏天》：**FINAL / LOCKED**
-- EP07 Canon Propagation 与 Link / Status Audit：**PASS / CLOSED**
+- EP08《为什么要跑？》：**尚未开发；有意采用非线性开发顺序**
+- EP09《选择》：**FINAL / LOCKED**
+- EP09 Canon Propagation 与 Link / Status Audit：**PASS / CLOSED**
 - 下一正式开发对象：**待主创指定**
+
+EP09 在 EP08 之前完成属于有意的非线性开发顺序；未来开发 EP08 时必须反向尊重 EP09 已锁定的人物状态与进路事实。
 
 ## 文档结构
 
@@ -48,7 +52,7 @@
 
 ## 单集开发标准
 
-从 EP02 起，单集开发默认同时遵守：
+从 EP02 起，单集开发默认同时遵循：
 
 - `docs/writing/writers-room-operating-card.md`
 - `docs/writing/writers-room-collaboration-principles.md`
