@@ -16,10 +16,12 @@
 - STEP14 Performance / Shot / Space / Sound：**PASS / CLOSED**
 - STEP15 Final No-Tool Read：**PASS / CLOSED**
 - STEP16 FINAL READY CHECK：**PASS**
-- 当前等待：**Showrunner FINAL 确认**
+- STEP16 Showrunner FINAL：**CONFIRMED / FINAL**
+- `FINAL.md`：已建立
+- 下一流程入口：**STEP17 Canon Propagation / Link & Status Audit**
 - EP08 尚未开发；这是有意的非线性开发顺序，不是材料缺失。
 
-## EP09 当前锁定
+## EP09 FINAL 锁定
 
 EP09 位于高三深秋（10 月下旬至 11 月），核心不是“桥本选哪所大学”，而是：
 
@@ -37,43 +39,39 @@ EP09 位于高三深秋（10 月下旬至 11 月），核心不是“桥本选�
 
 S10 不形成依赖承诺；分享问题不等于交出决定权。S13 只做主动告知与轻情绪收尾，不提前消费毕业离别。
 
-## STEP10–15 结果
+## STEP10–16 结果
 
 - STEP10 Continuity：唯一硬问题为 S11 “想学什么”重复，已机械修复；其余无须重开。
-- STEP11 Audience：A 类 RED 为 0；S07 群像切换、S10 长对白表演、S11 表格 / 网页信息属于执行 YELLOW。
-- STEP12 Scene Locks：S01–S08、S10–S13 现有 Screenplay LOCK 全部继续有效；S09 已吸收进 S07。五层复核无场景需要重新打开创作。
-- STEP13 Rhythm：不删 S07 人物，不压短 S10，不删 S11 信息文本。三者分别通过蒙太奇剪辑、对白呼吸与读屏分层解决执行节奏；未发现需要重开 Scene LOCK 的节奏硬伤。
-- STEP14 Performance / Shot / Space / Sound：不修改 screenplay。重点防止 S10 演成友情宣言、S11 拍成资料检索蒙太奇、S13 拍成毕业预告；S07 通过连续动作与声音完成群像切换。
-- STEP15 Final No-Tool Read：**PASS / CLOSED**。整集连续阅读成立；人物仍有生活感，没有被 QA 修成“太正确”的样子。S10 仍是最需克制执行的一场，但文本本身不需重开。S13 的普通午休结尾成立。
+- STEP11 Audience：A 类 RED 为 0；执行风险只留给制作层。
+- STEP12 Scene Locks：S01–S08、S10–S13 全部 CLOSED；S09 已吸收进 S07。
+- STEP13 Rhythm：不删 S07 人物，不压短 S10，不删 S11 信息文本。
+- STEP14 Performance / Shot / Space / Sound：防止 S10 演成友情宣言、S11 拍成资料检索蒙太奇、S13 拍成毕业预告。
+- STEP15 Final No-Tool Read：PASS / CLOSED；整集连续阅读成立。
+- STEP16：主创已明确确认 FINAL；`FINAL.md` 已建立。
 
-## FINAL READY CHECK
+## FINAL 制作硬锁
 
-已完成目录级机械核对：
-
-- 标准 STEP0–15 产出物齐全；
-- 已补标准 `scene-locks.md`；
-- `final-read.md` 为 PASS / CLOSED；
-- Scene Locks 全部 CLOSED；
-- `scene-list.md` 已同步当前 S02，不再保留旧学费减免手续；
-- `episode-brief.md` 已同步当前 S13，不再把早期“还挺舍不得的”当作待补台词；
-- `screenplay.md` 保持 SHOWRUNNER LOCKED，尚未提前标 FINAL；
-- 未发现阻塞 FINAL 的旧 DRAFT / IN PROGRESS 权威状态。
-
-因此 EP09 已具备请求主创 FINAL 的条件。
+- S07：按蒙太奇处理，不把每个学生拍成完整面谈。
+- S10：对白像现场寻找语言，不演成准备好的友情宣言。
+- S11：普通居家生活是主体，网页 / 表格只是工作台，不依赖逐字读屏。
+- S13：停在普通午休；不补“舍不得”，不做毕业预告式煽情。
+- 全集：不要用推近、慢镜、配乐替观众宣布“这一刻很重要”。
 
 ## 开发顺序说明
 
 EP07 完成后，编剧室有意跳过 EP08，先开发 EP09：一方面希望从 EP07 的高多巴胺青春氛围中抽离，另一方面本任编剧在上桌前明确希望创作 EP09。
 
-因此 EP08 仍存在于季结构与时间轴中，但正片尚未开发。未来开发 EP08 时，应反向尊重已经锁定的 EP09。
+因此 EP08 仍存在于季结构与时间轴中，但正片尚未开发。未来开发 EP08 时，应反向尊重已经 FINAL 的 EP09。
 
-## 最近形成的调性认识
+## 下一步
 
-> **现实先成立，人物再自然行动，戏剧效果排在后面。**
+执行 STEP17：
 
-> **桥本的成长不是“学会依赖别人”，而是允许别人看见尚未完成的决定。**
-
-> **毕业不是以后发生的一场典礼；它已经开始改变今天。**
+- 将 EP09 新增长期事实传播到 Series Bible / World / Structure；
+- 删除或重分类被 FINAL 推翻的旧计划；
+- 建立 `canon-propagation.md`；
+- 完成 Link / Status Audit；
+- STEP17 结束后再写“给下一任的信”。
 
 ## 维护纪律
 
