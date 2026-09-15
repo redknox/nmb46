@@ -12,7 +12,8 @@
 - STEP10 Continuity Check：**PASS / CLOSED**
 - STEP11 Audience Check：**PASS / CLOSED**
 - STEP12 Scene Locks：**PASS / CLOSED**
-- 下一流程入口：**STEP13 Rhythm Check**
+- STEP13 Rhythm Check：**PASS / CLOSED**
+- 下一流程入口：**STEP14 Performance / Shot / Space / Sound Check**
 - EP08 尚未开发；这是有意的非线性开发顺序，不是材料缺失。
 
 ## EP09 当前锁定
@@ -33,12 +34,19 @@ EP09 位于高三深秋（10 月下旬至 11 月），核心不是“桥本选�
 
 S10 不形成依赖承诺；分享问题不等于交出决定权。S13 只做主动告知与轻情绪收尾，不提前消费毕业离别。
 
-## STEP10–12 结果
+## STEP10–13 结果
 
 - STEP10 Continuity：唯一硬问题为 S11 “想学什么”重复，已机械修复；其余无须重开。
 - STEP11 Audience：A 类 RED 为 0；S07 群像切换、S10 长对白表演、S11 表格 / 网页信息属于执行 YELLOW。
 - STEP12 Scene Locks：S01–S08、S10–S13 现有 Screenplay LOCK 全部继续有效；S09 已吸收进 S07。五层复核无场景需要重新打开创作。
-- S07、S10、S11 的执行风险转交 STEP13 Rhythm / STEP14 Performance。
+- STEP13 Rhythm：不删 S07 人物，不压短 S10，不删 S11 信息文本。三者分别通过蒙太奇剪辑、对白呼吸与读屏分层解决执行节奏；未发现需要重开 Scene LOCK 的节奏硬伤。
+
+## STEP14 带入项
+
+- S07：用门、纸张、窗外光线、老师翻页等连续动作形成蒙太奇，不把每个人演成完整面谈。
+- S10：对白必须像现场想出来的，不演成准备好的关系宣言；停顿、笑和视线承担一部分信息。
+- S11：观众只需抓住北大 / 都立均成立、寒地 / 雪 / 风、就业两地都可、宿舍未定、“想学什么”空白等锚点，不依赖逐字读屏。
+- 全集：“停一下 / 点头 / 嗯”等重复书面动作在表演与空间层去同质化。
 
 ## 开发顺序说明
 
