@@ -11,7 +11,8 @@
 - STEP9 Screenplay：**COMPLETE / SHOWRUNNER LOCKED**
 - STEP10 Continuity Check：**PASS / CLOSED**
 - STEP11 Audience Check：**PASS / CLOSED**
-- 下一流程入口：**STEP12 Scene Locks / 逐场锁定复核**
+- STEP12 Scene Locks：**PASS / CLOSED**
+- 下一流程入口：**STEP13 Rhythm Check**
 - EP08 尚未开发；这是有意的非线性开发顺序，不是材料缺失。
 
 ## EP09 当前锁定
@@ -32,30 +33,12 @@ EP09 位于高三深秋（10 月下旬至 11 月），核心不是“桥本选�
 
 S10 不形成依赖承诺；分享问题不等于交出决定权。S13 只做主动告知与轻情绪收尾，不提前消费毕业离别。
 
-## STEP10 结果
+## STEP10–12 结果
 
-连续性检查覆盖：
-
-- EP09 内部时间与场次衔接；
-- 人物行为连续性；
-- 乃校支援与进路指导制度；
-- 北大 / 都立比较逻辑；
-- ミモザ兼职流程；
-- 桥本住处与住宿调查；
-- EP01–EP07 已落盘正史及后半季结构 / 时间轴 Canon。
-
-唯一发现的硬问题为 S11 “想学什么”行重复出现，已做纯机械修复：前段删除，场尾保留“新增一行：想学什么”。
-
-修复后未发现需要重开人物线或场景的连续性冲突。
-
-## STEP11 结果
-
-Audience Check：**PASS / CLOSED**。
-
-- A 类 RED：0；
-- B 类人物 / 关系变化：第一次观看可自然感知；
-- C 类主题与余韵：保持留白，不补解释；
-- YELLOW：S07 群像切换、S10 长对白表演、S11 表格 / 网页信息，均属于导演 / 剪辑 / 表演执行依赖，不触发 screenplay 重开。
+- STEP10 Continuity：唯一硬问题为 S11 “想学什么”重复，已机械修复；其余无须重开。
+- STEP11 Audience：A 类 RED 为 0；S07 群像切换、S10 长对白表演、S11 表格 / 网页信息属于执行 YELLOW。
+- STEP12 Scene Locks：S01–S08、S10–S13 现有 Screenplay LOCK 全部继续有效；S09 已吸收进 S07。五层复核无场景需要重新打开创作。
+- S07、S10、S11 的执行风险转交 STEP13 Rhythm / STEP14 Performance。
 
 ## 开发顺序说明
 
