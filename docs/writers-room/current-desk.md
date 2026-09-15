@@ -10,7 +10,8 @@
 - 编剧：水野遥（Mizuno Haruka）
 - STEP9 Screenplay：**COMPLETE / SHOWRUNNER LOCKED**
 - STEP10 Continuity Check：**PASS / CLOSED**
-- 下一流程入口：**STEP11 Audience Check**
+- STEP11 Audience Check：**PASS / CLOSED**
+- 下一流程入口：**STEP12 Scene Locks / 逐场锁定复核**
 - EP08 尚未开发；这是有意的非线性开发顺序，不是材料缺失。
 
 ## EP09 当前锁定
@@ -46,6 +47,15 @@ S10 不形成依赖承诺；分享问题不等于交出决定权。S13 只做主
 唯一发现的硬问题为 S11 “想学什么”行重复出现，已做纯机械修复：前段删除，场尾保留“新增一行：想学什么”。
 
 修复后未发现需要重开人物线或场景的连续性冲突。
+
+## STEP11 结果
+
+Audience Check：**PASS / CLOSED**。
+
+- A 类 RED：0；
+- B 类人物 / 关系变化：第一次观看可自然感知；
+- C 类主题与余韵：保持留白，不补解释；
+- YELLOW：S07 群像切换、S10 长对白表演、S11 表格 / 网页信息，均属于导演 / 剪辑 / 表演执行依赖，不触发 screenplay 重开。
 
 ## 开发顺序说明
 
