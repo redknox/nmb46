@@ -6,72 +6,63 @@
 
 ## 当前
 
-- 当前开发对象：EP09《选择》
+- EP09《选择》：**FINAL / LOCKED**
 - 编剧：水野遥（Mizuno Haruka）
-- STEP9 Screenplay：**COMPLETE / SHOWRUNNER LOCKED**
 - STEP10 Continuity Check：**PASS / CLOSED**
 - STEP11 Audience Check：**PASS / CLOSED**
 - STEP12 Scene Locks：**PASS / CLOSED**
 - STEP13 Rhythm Check：**PASS / CLOSED**
 - STEP14 Performance / Shot / Space / Sound：**PASS / CLOSED**
 - STEP15 Final No-Tool Read：**PASS / CLOSED**
-- STEP16 FINAL READY CHECK：**PASS**
 - STEP16 Showrunner FINAL：**CONFIRMED / FINAL**
-- `FINAL.md`：已建立
-- 下一流程入口：**STEP17 Canon Propagation / Link & Status Audit**
+- STEP17 Canon Propagation / Link & Status Audit：**PASS / CLOSED**
+- `screenplay.md`：**FINAL / LOCKED。正片权威文本。**
+- `FINAL.md`：FINAL / LOCKED
+- `canon-propagation.md`：PASS / CLOSED
+- 下一正式开发对象：**待主创指定**
 - EP08 尚未开发；这是有意的非线性开发顺序，不是材料缺失。
 
 ## EP09 FINAL 锁定
 
-EP09 位于高三深秋（10 月下旬至 11 月），核心不是“桥本选哪所大学”，而是：
+EP09 位于高三深秋（10 月下旬至 11 月）。
 
-> **当共同生活的条件开始松动，每个人如何第一次承担自己的未来。**
+桥本第一志愿北海道大学，第二志愿东京都立大学，横滨国立大学保留第三候选；是否最终录取与札幌最终住处均未解决。
 
-桥本第一志愿北海道大学，第二志愿东京都立大学，横滨国立大学保留第三候选。
-
-桥本真正被北大吸引的不是“回北海道”，也不是费用或就业，而是寒地、雪、风、地域条件如何进入建筑与城市形成的问题。
-
-白石的焦虑不是普通的“学校太多不知道怎么选”，而是第一次真正面对：自己想过怎样的生活、想成为怎样的人。
+桥本真正被北大吸引的不是“回北海道”、费用或就业，而是寒地、雪、风、地域条件如何进入建筑与城市形成的问题。
 
 桥本—白石关系线的变化锁定为：
 
 > **桥本第一次允许朋友进入“决定尚未完成”的阶段，而不是只在决定完成以后通知结果。**
 
-S10 不形成依赖承诺；分享问题不等于交出决定权。S13 只做主动告知与轻情绪收尾，不提前消费毕业离别。
+分享问题不等于交出决定权。白石可以陪一个问题保持未完成，也可以先问对方是否想听意见。
 
-## STEP10–16 结果
+S13 停在普通午休，不补桥本“舍不得”总结，不提前消费毕业离别。
 
-- STEP10 Continuity：唯一硬问题为 S11 “想学什么”重复，已机械修复；其余无须重开。
-- STEP11 Audience：A 类 RED 为 0；执行风险只留给制作层。
-- STEP12 Scene Locks：S01–S08、S10–S13 全部 CLOSED；S09 已吸收进 S07。
-- STEP13 Rhythm：不删 S07 人物，不压短 S10，不删 S11 信息文本。
-- STEP14 Performance / Shot / Space / Sound：防止 S10 演成友情宣言、S11 拍成资料检索蒙太奇、S13 拍成毕业预告。
-- STEP15 Final No-Tool Read：PASS / CLOSED；整集连续阅读成立。
-- STEP16：主创已明确确认 FINAL；`FINAL.md` 已建立。
+跨集长期事实集中锁定于：
 
-## FINAL 制作硬锁
+- `docs/structure/ep09-final-canon-lock.md`
 
-- S07：按蒙太奇处理，不把每个学生拍成完整面谈。
-- S10：对白像现场寻找语言，不演成准备好的友情宣言。
-- S11：普通居家生活是主体，网页 / 表格只是工作台，不依赖逐字读屏。
-- S13：停在普通午休；不补“舍不得”，不做毕业预告式煽情。
-- 全集：不要用推近、慢镜、配乐替观众宣布“这一刻很重要”。
+## World Canon
 
-## 开发顺序说明
+EP09 开发期形成的项目级设定继续有效：
 
-EP07 完成后，编剧室有意跳过 EP08，先开发 EP09：一方面希望从 EP07 的高多巴胺青春氛围中抽离，另一方面本任编剧在上桌前明确希望创作 EP09。
+- `docs/world/nogizaka-finance-foundation-alumni-network-lock.md`
+- `docs/world/career-guidance-principles-lock.md`
+- `docs/world/hashimoto-parttime-restaurant-lock.md`
 
-因此 EP08 仍存在于季结构与时间轴中，但正片尚未开发。未来开发 EP08 时，应反向尊重已经 FINAL 的 EP09。
+## 非线性开发顺序
 
-## 下一步
+EP07 完成后，编剧室有意跳过 EP08，先开发 EP09。
 
-执行 STEP17：
+未来开发 EP08 时必须反向尊重 EP09 FINAL：不得提前完成桥本“未完成分享”的变化，不得提前把北大写成已经确定的第一志愿，也不得让白石重复 EP07 人物课或提前完成 EP09 的进路焦虑。
 
-- 将 EP09 新增长期事实传播到 Series Bible / World / Structure；
-- 删除或重分类被 FINAL 推翻的旧计划；
-- 建立 `canon-propagation.md`；
-- 完成 Link / Status Audit；
-- STEP17 结束后再写“给下一任的信”。
+## 接下来
+
+EP09 编剧与流程工作全部结束。
+
+按此前约定，EP09 彻底收口后可以补写水野遥的“给下一任编剧的信”。
+
+下一集正式开发前，由主创重新指定开发对象并 ROOM OPEN；不得默认自动开始 EP08、EP10 或其他单集。
 
 ## 维护纪律
 
