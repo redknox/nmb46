@@ -11,8 +11,9 @@
 - 工作状态：**DEVELOPMENT**
 - STEP 0：**PASS / LOCKED**
 - STEP 1：**PASS / CLOSED**
-- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`
-- 当前工作：现实审查无一票否决项。襷规则、综合选人机制、南第 3 区 / 飞鸟第 4 区、正式校外试走、校内日常练习与竞赛服装 / 发型规则已经锁定；下一步为 STEP 2 人物行为引擎跑测。
+- STEP 2：**REVIEW**
+- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`；当前工作草案为 `docs/episodes/ep08/behavior-run.md`
+- 当前工作：五人行为引擎初跑完成，等待主创确认。当前核心判断是：她们不是从不认真练到认真，而是从五种互相妨碍的认真，练到能够把一件事交给下一个人。
 - Room Opening 创作备忘：`docs/writers-room/research/2026-09-16-ep08-youth-and-showa-form-room-opening-note.md`
 - 本任初衷备忘：`docs/writers-room/research/2026-09-16-aizawa-shiori-room-opening-intention.md`
 
@@ -80,7 +81,9 @@ Gate 1 已通过。采用襷驿传规则、综合选人机制，并把南配置�
 
 服装采用“日常制服、运动时统一指定体育服”的制度：白 / 极浅灰白短袖运动衫、深海军蓝半裤及同系列长袖运动服；体育祭用团色鉢巻与襷识别。长发按安全需要束起，飞鸟为普通黑色发圈的中低马尾；止汗带、毛巾护腕与装饰性热血装备不进入本集。
 
-下一步为 STEP 2：跑测 3-D 五人分别为何进入名单、第一次如何理解混乱、摩擦为何发生、谁先向谁调整，以及飞鸟的隐瞒在哪些动作中被观众看见。
+STEP 2 草案已完成。五人的自然行为分别落在：飞鸟隐藏投入、南把参与当作快乐、万理华相信身体反馈、深川以边界而非无限包容维持合作、若月把承诺变成可执行方法。主要正面摩擦落在飞鸟与若月之间，但不把若月写成训话队长；南偶然撞见飞鸟偷练，却不拆穿或分析。
+
+下一步：主创确认 / 修正 `behavior-run.md`。Gate 2 通过后进入 STEP 3 Beat Sheet，不在本阶段提前锁其余三段棒次或逐场安排。
 
 ## 维护纪律
 
