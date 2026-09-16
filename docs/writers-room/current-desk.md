@@ -10,8 +10,9 @@
 - 本任 Assistant 编剧：相泽栞（相沢 栞 / Aizawa Shiori）
 - 工作状态：**DEVELOPMENT**
 - STEP 0：**PASS / LOCKED**
-- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`
-- 当前工作：Room Opening 已由主创确认无误；EP08 任务定义已锁定。下一步为 STEP 1 现实 / 制度压力测试。
+- STEP 1：**PASS / CLOSED**
+- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`
+- 当前工作：现实审查无一票否决项。襷规则、综合选人机制、南第 3 区 / 飞鸟第 4 区、正式校外试走与校内日常练习已经锁定；下一步为 STEP 2 人物行为引擎跑测。
 - Room Opening 创作备忘：`docs/writers-room/research/2026-09-16-ep08-youth-and-showa-form-room-opening-note.md`
 - 本任初衷备忘：`docs/writers-room/research/2026-09-16-aizawa-shiori-room-opening-intention.md`
 
@@ -73,7 +74,11 @@ EP08 已由主创指定给相泽栞，并于 2026-09-16 正式结束 Room Openin
 
 Gate 0 已通过。主轴锁定为飞鸟：她一直认真，却小心不让别人知道自己在意；真正付出努力和汗水、又没有得到胜负回报以后，她第一次无法继续隐藏，带动 3-D 五人接力组一起痛快地哭。
 
-下一步为 STEP 1：把准备阶段的体育祭运行模型升级为正式 `reality-review.md`，重点验证五人入选机制、接力路线、棒次 / 交接规则、赛程时间、安全与体力边界。未通过 Gate 1 前，不锁 Beat Sheet。
+Gate 1 已通过。采用襷驿传规则、综合选人机制，并把南配置在第 3 区、飞鸟配置在约 380 米第 4 区；第 4 区结束于运动场侧中继 / 恢复区，使反超、掉速、交棒与后续哭戏同时满足身体和空间常识。
+
+练习周期锁定为体育课 / 特别活动基础训练、每周约两次放学后校内合练、一次实际路线踏勘与一次教师陪同的正式分区试走。飞鸟另有校内运动装偷练与家中自重训练；家庭以搞怪语言和不追问的行动表达温柔，不进入情绪中心。
+
+下一步为 STEP 2：跑测 3-D 五人分别为何进入名单、第一次如何理解混乱、摩擦为何发生、谁先向谁调整，以及飞鸟的隐瞒在哪些动作中被观众看见。
 
 ## 维护纪律
 
