@@ -12,8 +12,9 @@
 - STEP 0：**PASS / LOCKED**
 - STEP 1：**PASS / CLOSED**
 - STEP 2：**PASS / CLOSED**
-- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`、`docs/episodes/ep08/behavior-run.md`
-- 当前工作：Gate 2 已由主创确认。人物行为顺序、3-D 冲突伦理、全员戏剧产量与关系边界已经锁定；下一步为 STEP 3 Beat Sheet。
+- STEP 3：**REVIEW**
+- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`、`docs/episodes/ep08/behavior-run.md`；当前工作草案为 `docs/episodes/ep08/beat-sheet.md`
+- 当前工作：约 50 分钟三段式 Beat Sheet 初稿已完成，等待主创确认 D 团跑序、胜负边界、结尾停点与“最后一次体育祭”的潜流处理。
 - 3-D 冲突伦理：班级“不稳定”不是有人不认真或不适合合作，而是五套都正确的视角、习惯与方法暂时没有翻译接口。解决不是选出唯一正确答案，而是各自试着借用一次别人的观察方式。
 - Room Opening 创作备忘：`docs/writers-room/research/2026-09-16-ep08-youth-and-showa-form-room-opening-note.md`
 - 本任初衷备忘：`docs/writers-room/research/2026-09-16-aizawa-shiori-room-opening-intention.md`
@@ -86,7 +87,9 @@ STEP 2 草案已完成全员初跑。五人的自然行为分别落在：飞鸟�
 
 其余人物中，真夏—まあ亚—高山自然形成一条短而完整的方法对照；白石只做 EP07 后的轻量行为验证；生驹承担 L 级归属照亮；松村、卫藤、樱井产生高价值连接 / 制度动作；桥本、生田、西野、中元只保留准确生活 beat，不升级支线。
 
-Gate 2 已通过。下一步进入 STEP 3 Beat Sheet：只排主要时间段、核心因果、情绪换挡与必要伏笔，不提前写满对白和镜头。
+STEP 3 草案采用“结成与混乱 → 摩擦、练习与进步 → 本番、无回报与大哭”的老式三段结构。A 线集中于 3-D 五人；飞鸟私人投入作为暗线；C 团只做短方法对照；其余人物作为花絮、转场和制度动作。
+
+当前跑序提案为万理华 1 区、深川 2 区、南 3 区、飞鸟 4 区、若月 5 区；D 团不获得压轴接力第一或总冠军；结尾停在恢复区集体哭泣；“最后一次体育祭”不以对白点题。以上四项等待主创确认。
 
 ## 维护纪律
 
