@@ -6,6 +6,17 @@
 
 ## 当前
 
+- 当前开发对象：EP08《为什么要跑？》
+- 本任 Assistant 编剧：相泽栞（相沢 栞 / Aizawa Shiori）
+- 工作状态：**ROOM OPEN**
+- STEP 0：**尚未开始**
+- episode 产出物：**尚未建立**
+- 当前工作：主创与相泽栞进行正式开发前的编剧面试 / 创作对齐；只有主创明确判断“感觉已经对齐，可以进入工作状态”，才转入 DEVELOPMENT。
+- Room Opening 创作备忘：`docs/writers-room/research/2026-09-16-ep08-youth-and-showa-form-room-opening-note.md`
+- 本任初衷备忘：`docs/writers-room/research/2026-09-16-aizawa-shiori-room-opening-intention.md`
+
+## 上一集正式状态
+
 - EP09《选择》：**FINAL / LOCKED**
 - 编剧：水野遥（Mizuno Haruka）
 - STEP10 Continuity Check：**PASS / CLOSED**
@@ -19,8 +30,6 @@
 - `screenplay.md`：**FINAL / LOCKED。正片权威文本。**
 - `FINAL.md`：FINAL / LOCKED
 - `canon-propagation.md`：PASS / CLOSED
-- 下一正式开发对象：**待主创指定**
-- EP08 尚未开发；这是有意的非线性开发顺序，不是材料缺失。
 
 ## EP09 FINAL 锁定
 
@@ -60,9 +69,9 @@ EP07 完成后，编剧室有意跳过 EP08，先开发 EP09。
 
 EP09 编剧与流程工作全部结束。
 
-按此前约定，EP09 彻底收口后可以补写水野遥的“给下一任编剧的信”。
+EP08 已由主创指定给相泽栞，目前只继续 Room Opening 对齐：不建立 `docs/episodes/ep08/` 产出物，不推进 Gate，不把发散自动升级为 canon。
 
-下一集正式开发前，由主创重新指定开发对象并 ROOM OPEN；不得默认自动开始 EP08、EP10 或其他单集。
+下一 Gate 不是自动进入 STEP 0，而是等待主创明确确认已经对齐、可以进入工作状态；届时由相泽栞先给出简短“对齐回声”，主创确认无误后才开始 STEP 0。
 
 ## 维护纪律
 
