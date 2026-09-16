@@ -11,9 +11,9 @@
 - 工作状态：**DEVELOPMENT**
 - STEP 0：**PASS / LOCKED**
 - STEP 1：**PASS / CLOSED**
-- STEP 2：**REVIEW**
-- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`；当前工作草案为 `docs/episodes/ep08/behavior-run.md`
-- 当前工作：一期生 17 人行为引擎初跑完成，等待主创确认。当前核心判断是：D 团五人自然形成主故事；C 团三人形成短方法对照；白石承担轻量验证；其余人物产生连接、制度或生活动作，不强升支线。
+- STEP 2：**PASS / CLOSED**
+- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`、`docs/episodes/ep08/behavior-run.md`
+- 当前工作：Gate 2 已由主创确认。人物行为顺序、3-D 冲突伦理、全员戏剧产量与关系边界已经锁定；下一步为 STEP 3 Beat Sheet。
 - 3-D 冲突伦理：班级“不稳定”不是有人不认真或不适合合作，而是五套都正确的视角、习惯与方法暂时没有翻译接口。解决不是选出唯一正确答案，而是各自试着借用一次别人的观察方式。
 - Room Opening 创作备忘：`docs/writers-room/research/2026-09-16-ep08-youth-and-showa-form-room-opening-note.md`
 - 本任初衷备忘：`docs/writers-room/research/2026-09-16-aizawa-shiori-room-opening-intention.md`
@@ -86,7 +86,7 @@ STEP 2 草案已完成全员初跑。五人的自然行为分别落在：飞鸟�
 
 其余人物中，真夏—まあ亚—高山自然形成一条短而完整的方法对照；白石只做 EP07 后的轻量行为验证；生驹承担 L 级归属照亮；松村、卫藤、樱井产生高价值连接 / 制度动作；桥本、生田、西野、中元只保留准确生活 beat，不升级支线。
 
-下一步：主创确认 / 修正 `behavior-run.md`。Gate 2 通过后进入 STEP 3 Beat Sheet，不在本阶段提前锁其余三段棒次或逐场安排。
+Gate 2 已通过。下一步进入 STEP 3 Beat Sheet：只排主要时间段、核心因果、情绪换挡与必要伏笔，不提前写满对白和镜头。
 
 ## 维护纪律
 

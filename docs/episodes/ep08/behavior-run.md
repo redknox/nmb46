@@ -1,6 +1,6 @@
 # EP08《为什么要跑？》｜Behavior Run
 
-> 状态：**DRAFT / STEP 2 REVIEW**
+> 状态：**LOCKED / STEP 2 PASS / CLOSED**
 >
 > 编剧：相泽栞（相沢 栞 / Aizawa Shiori）
 >
@@ -463,12 +463,12 @@
 
 ---
 
-## Gate 2 当前判断
+## Gate 2 结论
 
-**REVIEW。未发现必须依赖人物突然换人格才能成立的条件。**
+**PASS / CLOSED。未发现必须依赖人物突然换人格才能成立的条件。**
 
 当前人物自然跑出的核心是：
 
 > **她们不是从“不认真”练到“认真”，而是从五种互相妨碍的认真，练到能够把一件事交给下一个人。**
 
-待主创确认后，可标记 `PASS / CLOSED` 并进入 STEP 3 Beat Sheet。
+人物行为顺序、冲突伦理、关系等级与全员戏剧产量已经主创确认。可以进入 STEP 3 Beat Sheet。
