@@ -8,10 +8,10 @@
 
 - 当前开发对象：EP08《为什么要跑？》
 - 本任 Assistant 编剧：相泽栞（相沢 栞 / Aizawa Shiori）
-- 工作状态：**ROOM OPEN**
-- STEP 0：**尚未开始**
-- episode 产出物：**尚未建立**
-- 当前工作：主创与相泽栞进行正式开发前的编剧面试 / 创作对齐；只有主创明确判断“感觉已经对齐，可以进入工作状态”，才转入 DEVELOPMENT。
+- 工作状态：**DEVELOPMENT**
+- STEP 0：**PASS / LOCKED**
+- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`
+- 当前工作：Room Opening 已由主创确认无误；EP08 任务定义已锁定。下一步为 STEP 1 现实 / 制度压力测试。
 - Room Opening 创作备忘：`docs/writers-room/research/2026-09-16-ep08-youth-and-showa-form-room-opening-note.md`
 - 本任初衷备忘：`docs/writers-room/research/2026-09-16-aizawa-shiori-room-opening-intention.md`
 
@@ -69,9 +69,11 @@ EP07 完成后，编剧室有意跳过 EP08，先开发 EP09。
 
 EP09 编剧与流程工作全部结束。
 
-EP08 已由主创指定给相泽栞，目前只继续 Room Opening 对齐：不建立 `docs/episodes/ep08/` 产出物，不推进 Gate，不把发散自动升级为 canon。
+EP08 已由主创指定给相泽栞，并于 2026-09-16 正式结束 Room Opening、进入 DEVELOPMENT。
 
-下一 Gate 不是自动进入 STEP 0，而是等待主创明确确认已经对齐、可以进入工作状态；届时由相泽栞先给出简短“对齐回声”，主创确认无误后才开始 STEP 0。
+Gate 0 已通过。主轴锁定为飞鸟：她一直认真，却小心不让别人知道自己在意；真正付出努力和汗水、又没有得到胜负回报以后，她第一次无法继续隐藏，带动 3-D 五人接力组一起痛快地哭。
+
+下一步为 STEP 1：把准备阶段的体育祭运行模型升级为正式 `reality-review.md`，重点验证五人入选机制、接力路线、棒次 / 交接规则、赛程时间、安全与体力边界。未通过 Gate 1 前，不锁 Beat Sheet。
 
 ## 维护纪律
 

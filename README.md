@@ -32,12 +32,12 @@
 - EP05《文化祭》：**FINAL / LOCKED**
 - EP06《放学以后》：**FINAL / LOCKED**
 - EP07《夏天》：**FINAL / LOCKED**
-- EP08《为什么要跑？》：**ROOM OPEN；相泽栞担任本任 Assistant 编剧；尚未进入 STEP 0**
+- EP08《为什么要跑？》：**DEVELOPMENT；STEP 0 PASS / LOCKED；相泽栞担任本任 Assistant 编剧**
 - EP09《选择》：**FINAL / LOCKED**
 - EP09 Canon Propagation 与 Link / Status Audit：**PASS / CLOSED**
-- 当前开发对象：**EP08《为什么要跑？》｜ROOM OPEN**
+- 当前开发对象：**EP08《为什么要跑？》｜DEVELOPMENT / STEP 0 PASS**
 
-EP09 在 EP08 之前完成属于有意的非线性开发顺序；EP08 当前仍在非 canon 的 Room Opening 对齐阶段，尚未建立 episode 产出物。后续正式开发必须反向尊重 EP09 已锁定的人物状态与进路事实。
+EP09 在 EP08 之前完成属于有意的非线性开发顺序。EP08 已完成 Room Opening 并通过 Gate 0，当前权威任务定义见 `docs/episodes/ep08/episode-brief.md`；后续开发必须反向尊重 EP09 已锁定的人物状态与进路事实。
 
 ## 文档结构
 
