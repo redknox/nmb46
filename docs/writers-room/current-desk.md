@@ -16,7 +16,7 @@
 - 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`、`docs/episodes/ep08/behavior-run.md`；当前工作草案为 `docs/episodes/ep08/beat-sheet.md`
 - 当前工作：约 50 分钟三段式 Beat Sheet 初稿已完成，等待主创确认 D 团跑序、胜负边界、结尾停点与“最后一次体育祭”的潜流处理。
 - STEP3 提前压力发现：若本番日前段展示开幕式、上午项目和全员岗位，结尾五人集体哭泣会失去前后呼应。Beat Sheet 已改为直接进入体育祭日下午末段；全校活动只通过一整天留下的身体与场地痕迹成立。
-- 短区间战术压力结论：250—380 米分区不支持复杂驿传战术。团队层只保留跑序 / 区间适配与襷交接约定；区间内主要是个人跑线和配速，只有飞鸟 380 米段承担明确前快后崩。
+- 短区间战术压力结论：250—380 米分区不支持复杂驿传战术。团队层只保留跑序 / 区间适配与襷交接约定；飞鸟能以毒舌准确看出“递出端不稳定者可放最后一棒”等朴素配置。区间内主要是个人跑线和配速，只有飞鸟约 380 米段承担明确的“前半段近似百米冲刺、后半段逐步力竭”。
 - 3-D 冲突伦理：班级“不稳定”不是有人不认真或不适合合作，而是五套都正确的视角、习惯与方法暂时没有翻译接口。解决不是选出唯一正确答案，而是各自试着借用一次别人的观察方式。
 - Room Opening 创作备忘：`docs/writers-room/research/2026-09-16-ep08-youth-and-showa-form-room-opening-note.md`
 - 本任初衷备忘：`docs/writers-room/research/2026-09-16-aizawa-shiori-room-opening-intention.md`
