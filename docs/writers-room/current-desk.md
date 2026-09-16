@@ -14,6 +14,7 @@
 - STEP 2：**REVIEW**
 - 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`；当前工作草案为 `docs/episodes/ep08/behavior-run.md`
 - 当前工作：一期生 17 人行为引擎初跑完成，等待主创确认。当前核心判断是：D 团五人自然形成主故事；C 团三人形成短方法对照；白石承担轻量验证；其余人物产生连接、制度或生活动作，不强升支线。
+- 3-D 冲突伦理：班级“不稳定”不是有人不认真或不适合合作，而是五套都正确的视角、习惯与方法暂时没有翻译接口。解决不是选出唯一正确答案，而是各自试着借用一次别人的观察方式。
 - Room Opening 创作备忘：`docs/writers-room/research/2026-09-16-ep08-youth-and-showa-form-room-opening-note.md`
 - 本任初衷备忘：`docs/writers-room/research/2026-09-16-aizawa-shiori-room-opening-intention.md`
 
