@@ -13,14 +13,16 @@
 - STEP 1：**PASS / CLOSED**
 - STEP 2：**PASS / CLOSED**
 - STEP 3：**PASS / CLOSED**
-- STEP 4：**NEXT**
-- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`、`docs/episodes/ep08/behavior-run.md`；当前工作草案为 `docs/episodes/ep08/beat-sheet.md`
-- 当前工作：约 50 分钟三段式 Beat Sheet 已锁定，下一步进入 STEP4 Beat Sheet 压力测试。
+- STEP 4：**PASS / CLOSED**
+- STEP 5：**NEXT**
+- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`、`docs/episodes/ep08/behavior-run.md`、`docs/episodes/ep08/beat-sheet.md`
+- 当前工作：约 50 分钟三段式 Beat Sheet 已通过 STEP4 压力测试，大型因果结构冻结；下一步进入 STEP5 Scene List / Sequence。
 - STEP3 提前压力发现：若本番日前段展示开幕式、上午项目和全员岗位，结尾五人集体哭泣会失去前后呼应。Beat Sheet 只保留天海校长开幕致辞结尾的极短时间铰链，随后直接进入体育祭日下午末段；全校活动通过一整天留下的身体与场地痕迹成立。
 - 短区间战术压力结论：250—380 米分区不支持复杂驿传战术。团队层只保留跑序 / 区间适配与襷交接约定；飞鸟能以毒舌准确看出“递出端不稳定者可放最后一棒”等朴素配置。区间内主要是个人跑线和配速，只有飞鸟约 380 米段承担明确的“前半段近似百米冲刺、后半段逐步力竭”。
 - STEP3 观众预期机制：D-4 试练采用分组 / 错峰出发且不记正式成绩，五人顺畅完成全部交接，让观众相信困难已经解决、正式赛将兑现 happy ending。本番不推翻训练成果；襷仍交接成功，只由真实差距与胜负欲触发飞鸟前快后崩，最后抵达没有胜负回报却完全真实的哭泣。
 - STEP3 最终锁定：D 团跑序为万理华→深川→南→飞鸟→若月；D 团赛前已无缘总冠军，中途超越不单独计分，飞鸟只是突然非常想超过前方那个人；D 团不获压轴接力第一，精确名次后置。结尾停在恢复区集体哭泣。“最后一次体育祭”只通过三学年交接和无人理会的背景放送进入。
 - 训练边界：日常班内分练，另设一→二、二→三年级接口练习；不要求十二班 / 六十名跑者每次集合。江口及其他成人只履行规则、安全、健康与运行职责，不做战术安排或人物提示；天海校长只保留极短开幕致辞，不进入逐项运行授权。
+- STEP4 压力结论：50 分钟可容纳，但第二段的 C 团、飞鸟家庭、跨年级接口与 D-2 确认必须作为嵌入式短段；第三段高一 / 高二前十棒只建立差距，不逐棒报道。白石、天海及其他人物不得脱离 D 团主线另起完整段落。高山不承担“停止救气氛”的变化，避免提前消费 EP11。
 - 3-D 冲突伦理：班级“不稳定”不是有人不认真或不适合合作，而是五套都正确的视角、习惯与方法暂时没有翻译接口。解决不是选出唯一正确答案，而是各自试着借用一次别人的观察方式。
 - Room Opening 创作备忘：`docs/writers-room/research/2026-09-16-ep08-youth-and-showa-form-room-opening-note.md`
 - 本任初衷备忘：`docs/writers-room/research/2026-09-16-aizawa-shiori-room-opening-intention.md`
@@ -96,6 +98,8 @@ STEP 2 草案已完成全员初跑。五人的自然行为分别落在：飞鸟�
 STEP 3 草案采用“结成与混乱 → 摩擦、练习与进步 → 本番、无回报与大哭”的老式三段结构。A 线集中于 3-D 五人；飞鸟私人投入作为暗线；C 团只做短方法对照；其余人物作为花絮、转场和制度动作。
 
 STEP 3 已由主创确认并关闭。跑序、胜负边界、结尾停点、背景放送、成人功能边界及跨年级练习均已写回 `beat-sheet.md` 与现实 / 人物稳定文件。
+
+STEP 4 已由 Assistant 完成并通过。大型因果结构冻结，进入 Scene List 后允许继续创造局部场景，不随意改动骨架。
 
 ## 维护纪律
 
