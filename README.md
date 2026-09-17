@@ -32,12 +32,12 @@
 - EP05《文化祭》：**FINAL / LOCKED**
 - EP06《放学以后》：**FINAL / LOCKED**
 - EP07《夏天》：**FINAL / LOCKED**
-- EP08《为什么要跑？》：**DEVELOPMENT；STEP 0–6 PASS；Scene List LOCKED；相泽栞担任本任 Assistant 编剧**
+- EP08《为什么要跑？》：**DEVELOPMENT；STEP 0–8 PASS；Treatment LOCKED；相泽栞担任本任 Assistant 编剧**
 - EP09《选择》：**FINAL / LOCKED**
 - EP09 Canon Propagation 与 Link / Status Audit：**PASS / CLOSED**
-- 当前开发对象：**EP08《为什么要跑？》｜DEVELOPMENT / STEP 7 TREATMENT**
+- 当前开发对象：**EP08《为什么要跑？》｜DEVELOPMENT / STEP 9 SCREENPLAY**
 
-EP09 在 EP08 之前完成属于有意的非线性开发顺序。EP08 已完成 Room Opening 与 STEP 0–6，Scene List 已通过 Gate 6 并锁定；STEP 7 Treatment 第一版已形成，当前为 DRAFT / REVIEW。任务定义、现实审查、人物行为、故事骨架、场景连续与当前展开稿分别见 `docs/episodes/ep08/episode-brief.md`、`reality-review.md`、`behavior-run.md`、`beat-sheet.md`、`scene-list.md`、`treatment.md`。后续开发必须反向尊重 EP09 已锁定的人物状态与进路事实。
+EP09 在 EP08 之前完成属于有意的非线性开发顺序。EP08 已完成 Room Opening 与 STEP 0–8；Scene List 已通过 Gate 6 并锁定，Treatment 已通过 Gate 8 并锁定，当前进入 STEP 9 Screenplay。任务定义、现实审查、人物行为、故事骨架、场景连续与可拍展开稿分别见 `docs/episodes/ep08/episode-brief.md`、`reality-review.md`、`behavior-run.md`、`beat-sheet.md`、`scene-list.md`、`treatment.md`。后续开发必须反向尊重 EP09 已锁定的人物状态与进路事实。
 
 ## 文档结构
 

@@ -16,9 +16,11 @@
 - STEP 4：**PASS / CLOSED**
 - STEP 5：**PASS / LOCKED**
 - STEP 6：**PASS / CLOSED**
-- STEP 7：**DRAFT / REVIEW**
-- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`、`docs/episodes/ep08/behavior-run.md`、`docs/episodes/ep08/beat-sheet.md`、`docs/episodes/ep08/scene-list.md`；当前工作稿：`docs/episodes/ep08/treatment.md`
-- 当前工作：`scene-list.md` 共 12 个场景 / sequence、约 50 分 30 秒，已通过 Gate 5–6 并锁定；`treatment.md` 第一版已形成，当前等待主创进行 STEP7 审阅。
+- STEP 7：**PASS / LOCKED**
+- STEP 8：**PASS / CLOSED**
+- STEP 9：**DRAFT / OPEN**
+- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`、`docs/episodes/ep08/behavior-run.md`、`docs/episodes/ep08/beat-sheet.md`、`docs/episodes/ep08/scene-list.md`、`docs/episodes/ep08/treatment.md`
+- 当前工作：`treatment.md` 共 12 个场景、约 50 分 30 秒，已由主创锁定并通过 Gate 8；当前进入 STEP9 Screenplay，尚未形成 `screenplay.md` 初稿。
 - STEP3 提前压力发现：若本番日前段展示开幕式、上午项目和全员岗位，结尾五人集体哭泣会失去前后呼应。Beat Sheet 只保留天海校长开幕致辞结尾的极短时间铰链，随后直接进入体育祭日下午末段；全校活动通过一整天留下的身体与场地痕迹成立。
 - 短区间战术压力结论：250—380 米分区不支持复杂驿传战术。团队层只保留跑序 / 区间适配与襷交接约定；飞鸟能以毒舌准确看出“递出端不稳定者可放最后一棒”等朴素配置。区间内主要是个人跑线和配速，只有飞鸟约 380 米段承担明确的“前半段近似百米冲刺、后半段逐步力竭”。
 - STEP3 观众预期机制：D-4 试练采用分组 / 错峰出发且不记正式成绩，五人顺畅完成全部交接，让观众相信困难已经解决、正式赛将兑现 happy ending。本番不推翻训练成果；襷仍交接成功，只由真实差距与胜负欲触发飞鸟前快后崩，最后抵达没有胜负回报却完全真实的哭泣。
@@ -27,6 +29,7 @@
 - STEP4 压力结论：50 分钟可容纳，但第二段的 C 团、飞鸟家庭、跨年级接口与 D-2 确认必须作为嵌入式短段；第三段高一 / 高二前十棒只建立差距，不逐棒报道。白石、天海及其他人物不得脱离 D 团主线另起完整段落。高山不承担“停止救气氛”的变化，避免提前消费 EP11。
 - STEP5 草案结构：S01 名单程序；S02 第一次失败与飞鸟—若月碰撞；S03 路线踏勘；S04 正式试走低点；S05 方法互译；S06 飞鸟隐秘投入；S07 无竞争试练成功；S08 体育祭下午入口；S09 前十棒压缩；S10 高三前三棒兑现；S11 飞鸟第 4 区；S12 终结区与恢复区哭泣。
 - STEP5–6 收口：S02 由江口完成标准技术说明与 300 米控制跑；S03 徒步踏勘，S04 在滚动交通控制下完成一次不中断的真实五区试走；S08 公布分数并由松村确认 D 团固定第四；S09 用轮次牌建立三学年依次接力；飞鸟追过又被反超的是此前在 C 团练习边缘出现的普通第 4 区跑者。B 团在远处反超夺冠，全场最大欢呼不切镜头；D 团以第四完成，摄影机留在恢复区哭泣。Scene List 已 LOCKED / GATE 6 PASS。
+- STEP7–8 收口：S01 由班主任作正式说明、普通 3-D 体育委员负责调查与回收；飞鸟保留“认真过头的人替所有人收拾”的吐槽。S02 具体展示过早起跑、追不上、回头减速与提示相撞；江口只提醒“前半程压住，给后半程留一点”。S03 万理华记录硬地与鞋底，飞鸟私下按固定标志设计配速；S05 采用“先看来速—叫名起跑—喊手伸手”的双提示交接。S06 增加不服务接力因果的普通课堂气口。S08 按五个中继地点分流 60 名正式跑者；S09 修正为 A 团率先完成高二→高三交接。Treatment 已 LOCKED / GATE 8 PASS。
 - 3-D 冲突伦理：班级“不稳定”不是有人不认真或不适合合作，而是五套都正确的视角、习惯与方法暂时没有翻译接口。解决不是选出唯一正确答案，而是各自试着借用一次别人的观察方式。
 - Room Opening 创作备忘：`docs/writers-room/research/2026-09-16-ep08-youth-and-showa-form-room-opening-note.md`
 - 本任初衷备忘：`docs/writers-room/research/2026-09-16-aizawa-shiori-room-opening-intention.md`
