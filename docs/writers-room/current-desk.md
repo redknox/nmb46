@@ -16,9 +16,9 @@
 - STEP 4：**PASS / CLOSED**
 - STEP 5：**PASS / LOCKED**
 - STEP 6：**PASS / CLOSED**
-- STEP 7：**DRAFT / OPEN**
-- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`、`docs/episodes/ep08/behavior-run.md`、`docs/episodes/ep08/beat-sheet.md`、`docs/episodes/ep08/scene-list.md`
-- 当前工作：`scene-list.md` 共 12 个场景 / sequence、约 50 分 30 秒，已通过 Gate 5–6 并锁定；当前进入 STEP7 Treatment，尚未形成 `treatment.md` 初稿。
+- STEP 7：**DRAFT / REVIEW**
+- 当前权威产出物：`docs/episodes/ep08/episode-brief.md`、`docs/episodes/ep08/reality-review.md`、`docs/episodes/ep08/behavior-run.md`、`docs/episodes/ep08/beat-sheet.md`、`docs/episodes/ep08/scene-list.md`；当前工作稿：`docs/episodes/ep08/treatment.md`
+- 当前工作：`scene-list.md` 共 12 个场景 / sequence、约 50 分 30 秒，已通过 Gate 5–6 并锁定；`treatment.md` 第一版已形成，当前等待主创进行 STEP7 审阅。
 - STEP3 提前压力发现：若本番日前段展示开幕式、上午项目和全员岗位，结尾五人集体哭泣会失去前后呼应。Beat Sheet 只保留天海校长开幕致辞结尾的极短时间铰链，随后直接进入体育祭日下午末段；全校活动通过一整天留下的身体与场地痕迹成立。
 - 短区间战术压力结论：250—380 米分区不支持复杂驿传战术。团队层只保留跑序 / 区间适配与襷交接约定；飞鸟能以毒舌准确看出“递出端不稳定者可放最后一棒”等朴素配置。区间内主要是个人跑线和配速，只有飞鸟约 380 米段承担明确的“前半段近似百米冲刺、后半段逐步力竭”。
 - STEP3 观众预期机制：D-4 试练采用分组 / 错峰出发且不记正式成绩，五人顺畅完成全部交接，让观众相信困难已经解决、正式赛将兑现 happy ending。本番不推翻训练成果；襷仍交接成功，只由真实差距与胜负欲触发飞鸟前快后崩，最后抵达没有胜负回报却完全真实的哭泣。
