@@ -37,7 +37,7 @@
 - EP09 Canon Propagation 与 Link / Status Audit：**PASS / CLOSED**
 - 当前开发对象：**EP08《为什么要跑？》｜DEVELOPMENT / STEP 9 CLOSED / STEP 10 CLOSED / STEP 11 CLOSED / STEP 12 IN PROGRESS**
 
-EP09 在 EP08 之前完成属于有意的非线性开发顺序。EP08 已完成 Room Opening 与 STEP 0–10；Scene List 已通过 Gate 6 并锁定，Treatment 已通过 Gate 8 并锁定，STEP 9 Screenplay 已 PASS / CLOSED，完整正文及整稿修订已收入 `docs/episodes/ep08/screenplay.md`；STEP 10 完整连续性审查已 PASS / CLOSED，日历冲突已按主创确认修复，审查见 `docs/episodes/ep08/continuity-review.md`；STEP 11 观众视角审查已由主创确认 PASS / CLOSED，报告见 `docs/episodes/ep08/audience-review.md`；STEP 12 已开始，S01 座位与递笔修订、S02A 控制跑精简均已通过，当前复核 S02B，记录见 `docs/episodes/ep08/scene-locks.md`，尚未锁定任何场景。三项拍法依赖留待逐场与制作审查。场次仍为 PASS，未宣告 LOCKED；当前正片工作估计约46—49分钟，待后续节奏核对。任务定义、现实审查、人物行为、故事骨架、场景连续与可拍展开稿分别见 `docs/episodes/ep08/episode-brief.md`、`reality-review.md`、`behavior-run.md`、`beat-sheet.md`、`scene-list.md`、`treatment.md`。后续开发必须反向尊重 EP09 已锁定的人物状态与进路事实。
+EP09 在 EP08 之前完成属于有意的非线性开发顺序。EP08 已完成 Room Opening 与 STEP 0–10；Scene List 已通过 Gate 6 并锁定，Treatment 已通过 Gate 8 并锁定，STEP 9 Screenplay 已 PASS / CLOSED，完整正文及整稿修订已收入 `docs/episodes/ep08/screenplay.md`；STEP 10 完整连续性审查已 PASS / CLOSED，日历冲突已按主创确认修复，审查见 `docs/episodes/ep08/continuity-review.md`；STEP 11 观众视角审查已由主创确认 PASS / CLOSED，报告见 `docs/episodes/ep08/audience-review.md`；STEP 12 已开始，S01 座位与递笔修订、S02A 控制跑精简均已通过，S02B 亦已通过，下一单元 S03，记录见 `docs/episodes/ep08/scene-locks.md`，尚未锁定任何场景。三项拍法依赖留待逐场与制作审查。场次仍为 PASS，未宣告 LOCKED；当前正片工作估计约46—49分钟，待后续节奏核对。任务定义、现实审查、人物行为、故事骨架、场景连续与可拍展开稿分别见 `docs/episodes/ep08/episode-brief.md`、`reality-review.md`、`behavior-run.md`、`beat-sheet.md`、`scene-list.md`、`treatment.md`。后续开发必须反向尊重 EP09 已锁定的人物状态与进路事实。
 
 ## 文档结构
 
