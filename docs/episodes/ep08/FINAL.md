@@ -9,8 +9,8 @@
 - 正片唯一母稿：[screenplay.md](screenplay.md)。
 - STEP15：主创已明确确认收口，PASS / CLOSED。
 - Showrunner FINAL：主创已明确确认，STEP16 CLOSED。
-- screenplay FINAL status commit：本次提交正式定稿；准确 SHA 在后续传播提交中回填。
-- STEP17 Canon Propagation / Link & Status Audit：进行中；后续传播提交将记录执行结果。
+- screenplay FINAL status commit：`23918bae0ee77b5c299d91689aa688fccf429895`。
+- STEP17 Canon Propagation / Link & Status Audit：**PASS / CLOSED**；记录见 [canon-propagation.md](canon-propagation.md)。
 
 ## READY CHECK
 
@@ -43,6 +43,8 @@
 | STEP13 | [rhythm-review.md](rhythm-review.md) | PASS / CLOSED |
 | STEP14 | [performance-review.md](performance-review.md) | PASS / CLOSED |
 | STEP15 | [final-read.md](final-read.md) | PASS / CLOSED |
+| STEP16 | 本索引及正片 FINAL status commit | CONFIRMED / FINAL / CLOSED |
+| STEP17 | [canon-propagation.md](canon-propagation.md) | PASS / CLOSED |
 
 ## 制作注意
 
@@ -58,4 +60,4 @@
 
 主创已确认 FINAL，停止偏好型润色，按项目流程只因连续性、现实制度、安全、制作不可执行、A 类观众信息或明显人物硬伤重开。
 
-正在执行 STEP17 的 Add / Remove / Reclassify 与 Link / Status Audit，回填真实 FINAL commit。下一正式开发对象仍由主创指定，本任不自动进入下一集。
+STEP17 已完成 Add / Remove / Reclassify 与 Link / Status Audit。长期事实见 [EP08 FINAL canon](../../structure/ep08-final-canon-lock.md)，制度见 [体育祭运行锁](../../world/sports-festival-lock.md)。下一正式开发对象仍由主创指定，本任进入 POST-FINAL。

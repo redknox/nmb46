@@ -6,7 +6,7 @@
 >
 > 对白工作法：人物对白先以自然日语完成关系、语气与省略，再译为正片中文；`SHR`、`体育委員`、`希望調査`、`団対抗リレー`、`補欠`、`襷`、`走順` 等制度 / 校园词汇保留日式用语。
 >
-> 主创已逐场确认各场及修订，并于 STEP12 整体收口时确认场景锁定；详见 `scene-locks.md`。STEP13–15 均已 PASS / CLOSED；STEP16 READY CHECK 已通过，主创已明确确认 Showrunner FINAL，STEP17 全库传播进行中。本文件保持正片唯一母稿，STEP17 全库传播进行中。
+> 主创已逐场确认各场及修订，并于 STEP12 整体收口时确认场景锁定；详见 `scene-locks.md`。STEP13–15 均已 PASS / CLOSED；STEP16 READY CHECK 已通过，主创已明确确认 Showrunner FINAL；STEP17 全库传播与 Link / Status Audit 已 PASS / CLOSED。本文件保持正片唯一母稿。
 
 ---
 

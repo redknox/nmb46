@@ -24,4 +24,4 @@
 
 ## 收口边界
 
-STEP15 通读已由主创确认 PASS / CLOSED。STEP16 READY CHECK 已通过，详见 `FINAL.md`；主创已明确确认 Showrunner FINAL，STEP17 全库传播进行中。当前正片仍以 `screenplay.md` 为唯一母稿。
+STEP15 通读已由主创确认 PASS / CLOSED。STEP16 READY CHECK 已通过，详见 `FINAL.md`；主创已明确确认 Showrunner FINAL；STEP17 全库传播与 Link / Status Audit 已 PASS / CLOSED。当前正片仍以 `screenplay.md` 为唯一母稿。

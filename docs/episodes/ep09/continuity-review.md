@@ -1,5 +1,7 @@
 # EP09《选择》｜STEP10 Continuity Review
 
+> EP08 FINAL 传播注：EP08 现已完成定稿；下文“尚未开发／未来补写”均描述 EP09 审查时的历史基线，不是当前项目状态。EP09 正片、FINAL commit 与人物进路事实不变。
+
 > 状态：**STEP10 / PASS / CLOSED**
 >
 > 检查对象：`screenplay.md`（STEP9 COMPLETE / SHOWRUNNER LOCKED）及 EP09 独立 Scene LOCK、后半季时间轴与当前仓库状态。

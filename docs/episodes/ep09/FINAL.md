@@ -55,6 +55,6 @@ EP09 后续长期人物与进路事实另由：
 - 记录：`canon-propagation.md`
 - Propagation completion commit：`f8f9447ae21cf146858d1017394da708211cba1e`
 
-EP09 已完成单集 FINAL 与全库传播。EP08 尚未开发属于有意的非线性开发顺序；未来补写 EP08 必须反向尊重 EP09 FINAL。
+EP09 已完成单集 FINAL 与全库传播，并有意先于 EP08 完成。EP08 现已 FINAL，其补写保持了 EP09 的人物与进路边界；EP09 正片不因此次状态同步而修改。
 
 下一正式开发对象由主创指定。

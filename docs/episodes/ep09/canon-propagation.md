@@ -1,5 +1,7 @@
 # EP09《选择》｜Canon Propagation
 
+> EP08 FINAL 传播注：EP08 现已完成定稿；下文“尚未开发／未来补写”均描述 EP09 审查时的历史基线，不是当前项目状态。EP09 正片、FINAL commit 与人物进路事实不变。
+
 > 状态：**PASS / CLOSED**
 >
 > 流程：STEP17｜Canon Propagation / Link & Status Audit

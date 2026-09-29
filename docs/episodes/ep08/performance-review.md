@@ -90,4 +90,4 @@ S10 的过曝保留亮度质感，不淹没号码布、襷和交接手部。重�
 
 三项 YELLOW 在编剧文本层已得到可执行承接；实景路线测量、跑者通过表、轴线与服装辨识、演员呼吸与落泪节奏、字幕读屏、音乐混音、成片时长仍须由实际制作验证。这里记录的是交接条件，不是假称制作已经完成。
 
-STEP15 最终无工具通读已由主创确认 PASS / CLOSED，记录见 `final-read.md`；STEP16 READY CHECK 已通过，主创已明确确认 Showrunner FINAL，STEP17 全库传播进行中。
+STEP15 最终无工具通读已由主创确认 PASS / CLOSED，记录见 `final-read.md`；STEP16 READY CHECK 已通过，主创已明确确认 Showrunner FINAL；STEP17 全库传播与 Link / Status Audit 已 PASS / CLOSED。

@@ -91,7 +91,7 @@ S10—S12 合计边界 **10:27—12:33**，高潮并未只剩几分钟；但这�
 
 ## 7. Gate 与后续
 
-**STEP13 文本审查 PASS / CLOSED，主创已确认收口。** 无新增正文修订建议，无需重开 Scene LOCK；本集仍未 FINAL。
+**STEP13 文本审查 PASS / CLOSED，主创已确认收口。** 无新增正文修订建议，无需重开 Scene LOCK；本集已由主创确认 FINAL；本报告的估时仍未经实际围读或剪辑验证。
 
 本轮实际修改仅为本报告、README／Current Desk 状态，以及 Scene List 三段标题的估时同步。STEP14 已按以下项目完成文本审查，详见 [performance-review.md](performance-review.md)；实际制作验证仍待实施：
 
