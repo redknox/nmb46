@@ -1,12 +1,12 @@
 # EP08《为什么要跑？》｜Screenplay
 
-> 状态：**DRAFT / STEP 9 PASS / CLOSED；S01 PASS / S02A PASS / S02B PASS / S03 PASS / S04 PASS / S05 PASS / S06 PASS / S07 PASS / S08 PASS / S09 PASS / S10 PASS / S11 PASS / S12 PASS**
+> 状态：**LOCKED / STEP9 PASS / CLOSED / STEP12 PASS / CLOSED；S01—S12（含 S02A、S02B）全部 LOCKED；尚未 FINAL**
 >
 > 编剧：相泽栞（相沢 栞 / Aizawa Shiori）
 >
 > 对白工作法：人物对白先以自然日语完成关系、语气与省略，再译为正片中文；`SHR`、`体育委員`、`希望調査`、`団対抗リレー`、`補欠`、`襷`、`走順` 等制度 / 校园词汇保留日式用语。
 >
-> 本文件当前仅收入主创逐场确认通过的场次；`PASS` 不等于 `LOCKED`，场景锁定仍须主创明确确认。
+> 主创已逐场确认各场及修订，并于 STEP12 整体收口时确认场景锁定；详见 `scene-locks.md`。本文件保持正片唯一母稿，后续仍须完成 STEP13–17。
 
 ---
 

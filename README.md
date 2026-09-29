@@ -32,12 +32,12 @@
 - EP05《文化祭》：**FINAL / LOCKED**
 - EP06《放学以后》：**FINAL / LOCKED**
 - EP07《夏天》：**FINAL / LOCKED**
-- EP08《为什么要跑？》：**DEVELOPMENT；STEP 0–8 PASS；Treatment LOCKED；相泽栞担任本任 Assistant 编剧**
+- EP08《为什么要跑？》：**DEVELOPMENT；STEP 0–12 PASS；Scene Locks CLOSED；相泽栞担任本任 Assistant 编剧**
 - EP09《选择》：**FINAL / LOCKED**
 - EP09 Canon Propagation 与 Link / Status Audit：**PASS / CLOSED**
-- 当前开发对象：**EP08《为什么要跑？》｜DEVELOPMENT / STEP 9 CLOSED / STEP 10 CLOSED / STEP 11 CLOSED / STEP 12 IN PROGRESS**
+- 当前开发对象：**EP08《为什么要跑？》｜DEVELOPMENT / STEP 12 CLOSED / STEP 13 NEXT**
 
-EP09 在 EP08 之前完成属于有意的非线性开发顺序。EP08 已完成 Room Opening 与 STEP 0–10；Scene List 已通过 Gate 6 并锁定，Treatment 已通过 Gate 8 并锁定，STEP 9 Screenplay 已 PASS / CLOSED，完整正文及整稿修订已收入 `docs/episodes/ep08/screenplay.md`；STEP 10 完整连续性审查已 PASS / CLOSED，日历冲突已按主创确认修复，审查见 `docs/episodes/ep08/continuity-review.md`；STEP 11 观众视角审查已由主创确认 PASS / CLOSED，报告见 `docs/episodes/ep08/audience-review.md`；STEP 12 已开始，S01 座位与递笔修订、S02A 控制跑精简均已通过，S02B 亦已通过，S03 亦已通过，S04 已通过，S05 修订已通过，S06 已通过，S07 已通过，S08 已通过，S09 已通过，S10 已通过，S11 已通过，当前复核 S12，记录见 `docs/episodes/ep08/scene-locks.md`，尚未锁定任何场景。三项拍法依赖留待逐场与制作审查。场次仍为 PASS，未宣告 LOCKED；当前正片工作估计约46—49分钟，待后续节奏核对。任务定义、现实审查、人物行为、故事骨架、场景连续与可拍展开稿分别见 `docs/episodes/ep08/episode-brief.md`、`reality-review.md`、`behavior-run.md`、`beat-sheet.md`、`scene-list.md`、`treatment.md`。后续开发必须反向尊重 EP09 已锁定的人物状态与进路事实。
+EP09 在 EP08 之前完成属于有意的非线性开发顺序。EP08 已完成 Room Opening 与 STEP 0–12；Scene List、Treatment 已锁定，STEP9–11 均 PASS / CLOSED。主创已逐场确认正文与修订，并确认 STEP12 整体收口：S01—S12（含 S02A、S02B）全部 LOCKED，记录见 `docs/episodes/ep08/scene-locks.md`，正片正文仍以 `docs/episodes/ep08/screenplay.md` 为准，尚未进入 FINAL。下一步 STEP13 整集节奏／重复审查，尚未执行；当前正片工作估计约46—49分钟，未经实测。STEP11 的三项拍摄注意已逐场承接，继续交 STEP14 核验。任务定义、现实审查、人物行为、故事骨架、场景连续与可拍展开稿分别见 `docs/episodes/ep08/episode-brief.md`、`reality-review.md`、`behavior-run.md`、`beat-sheet.md`、`scene-list.md`、`treatment.md`。后续开发必须反向尊重 EP09 已锁定的人物状态与进路事实。
 
 ## 文档结构
 
