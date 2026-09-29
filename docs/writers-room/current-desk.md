@@ -39,4 +39,11 @@ EP09 的桥本第一志愿北海道大学、第二志愿东京都立大学；人
 - [相泽栞初衷](research/2026-09-16-aizawa-shiori-room-opening-intention.md)
 - [青春与昭和形式](research/2026-09-16-ep08-youth-and-showa-form-room-opening-note.md)
 
+## 本任留下的非 canon 记录
+
+- [给后任的信｜不哭的人也可以坐在这里](assistant-letters/2026-09-29-aizawa-shiori.md)
+- [EP08 完成采访｜为什么南可以不哭](creative-interviews/ep08-final-interview.md)
+
+两篇形成于 FINAL 与传播完成后；不增加下一集任务。飞鸟家庭生活与体育祭运行已随 STEP17 进入各自权威文件，本轮不另增世界观设定。
+
 维护本页只留最后确认和当前边界；开发过程由各权威文件与 Git 保存。
