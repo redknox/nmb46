@@ -1,6 +1,6 @@
 # EP08《为什么要跑？》｜STEP14 Performance / Shot / Space / Sound Review
 
-> 状态：**REVIEW / STEP14 审查 PASS / 待主创确认收口**。
+> 状态：**PASS / CLOSED / STEP14 已由主创确认收口**。
 >
 > 检查基线：`045145595c5ac3093898cd1d89ffdb97108ac799`；STEP12 场景全部 LOCKED，STEP13 已由主创确认 PASS / CLOSED。
 >
@@ -86,8 +86,8 @@ S10 的过曝保留亮度质感，不淹没号码布、襷和交接手部。重�
 
 ## 6. Gate 与制作交接
 
-**STEP14 文本审查 PASS，待主创确认收口。** 本轮不修改 `screenplay.md`，不重开任何场景。
+**STEP14 文本审查 PASS / CLOSED，主创已确认收口。** 本轮不修改 `screenplay.md`，不重开任何场景。
 
 三项 YELLOW 在编剧文本层已得到可执行承接；实景路线测量、跑者通过表、轴线与服装辨识、演员呼吸与落泪节奏、字幕读屏、音乐混音、成片时长仍须由实际制作验证。这里记录的是交接条件，不是假称制作已经完成。
 
-主创确认后可进入 STEP15 最终无工具通读；本轮尚未执行 STEP15，也未进入 Showrunner FINAL。
+STEP15 最终无工具通读已完成，记录见 `final-read.md`，通读 PASS、待主创确认收口；尚未进入 Showrunner FINAL。
