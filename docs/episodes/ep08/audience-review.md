@@ -1,6 +1,6 @@
 # EP08《为什么要跑？》｜STEP11 Audience Perspective Review
 
-> 状态：**STEP11 / 审查 PASS / 待主创确认收口**。
+> 状态：**STEP11 / PASS / CLOSED**。
 >
 > 检查基线：`35dbd03d24a1dc050d7e57b3a3deeecb43e05f83`；STEP10 PASS / CLOSED。
 >
@@ -69,4 +69,4 @@ S06 的树、建筑转角与 S11 应能被认作同一处。正文“这里原�
 
 S10 插入白石退出镜头后，后续两个“她”的指代变得含混。已将“跑者从她旁边出去”“她没有跟着转头”中的主体明确为深川；只消除文字歧义，不改变动作、场号或人物关系。
 
-审查结论为 PASS，待主创确认 STEP11 收口。其后三项 YELLOW 交 STEP12 逐场锁定与 STEP14 表演／镜头／空间／声音审查，不靠补解释台词消除。STEP12 尚未启动，任何场景的 LOCK 均由主创决定。
+主创已确认 STEP11 收口，状态 PASS / CLOSED。三项 YELLOW 交 STEP12 逐场锁定与 STEP14 表演／镜头／空间／声音审查，不靠补解释台词消除。STEP12 已开始，当前 S01 REVIEW；任何场景的 LOCK 均由主创决定。
