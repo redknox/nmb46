@@ -1,6 +1,6 @@
 # EP08《为什么要跑？》｜STEP15 Final No-Tool Read
 
-> 状态：**REVIEW / STEP15 通读 PASS / 待主创确认收口**。
+> 状态：**PASS / CLOSED / STEP15 已由主创确认收口**。
 >
 > 通读基线：`8b5d540a882f7ca31ff384fecf10cf066d7c2393` 的 `screenplay.md`；STEP14 已由主创确认 PASS / CLOSED。
 >
@@ -24,4 +24,4 @@
 
 ## 收口边界
 
-STEP15 通读 PASS，等待主创确认收口。未执行 STEP16 READY CHECK，未宣告 FINAL READY 或 Showrunner FINAL；当前正片仍以 `screenplay.md` 为唯一母稿。
+STEP15 通读已由主创确认 PASS / CLOSED。STEP16 READY CHECK 已通过，详见 `FINAL.md`；等待主创明确确认 Showrunner FINAL。当前正片仍以 `screenplay.md` 为唯一母稿。

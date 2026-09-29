@@ -82,4 +82,4 @@ D-9 对 D-7 的“后天实际跑一次”仍正确。S06 夜后回到同一天�
 
 ## 6. 下一步
 
-日期修复、传播与七日表复核完成，STEP10 PASS / CLOSED。下一步 STEP11 观众视角审查；尚未执行，未锁任何场景。
+日期修复、传播与七日表复核完成，STEP10 PASS / CLOSED。后续 STEP11–15 均已由主创确认收口，全部场景 LOCKED；当前 STEP16 READY CHECK 已通过，等待主创明确确认 Showrunner FINAL。状态索引见 `FINAL.md`。
