@@ -1,6 +1,6 @@
 # EP08《为什么要跑？》｜FINAL
 
-> 状态：**REVIEW / STEP16 READY CHECK PASS / 待主创确认 Showrunner FINAL**。
+> 状态：**FINAL / LOCKED / STEP16 Showrunner FINAL 已确认**。
 >
 > 核验基线：`9c884c5de10cc0ff8375f0f2a0b2dff14c89a759` 及本次 STEP15 收口与状态同步。正片场景正文未改。
 
@@ -8,9 +8,9 @@
 
 - 正片唯一母稿：[screenplay.md](screenplay.md)。
 - STEP15：主创已明确确认收口，PASS / CLOSED。
-- Showrunner FINAL：等待主创明确确认；本索引的建立不等于定稿批准。
-- screenplay FINAL status commit：尚未产生；正式确认后提交，并在后续传播提交中回填准确 SHA。
-- STEP17 Canon Propagation / Link & Status Audit：尚未进入；确认 FINAL 后执行，不预建空白传播文件。
+- Showrunner FINAL：主创已明确确认，STEP16 CLOSED。
+- screenplay FINAL status commit：本次提交正式定稿；准确 SHA 在后续传播提交中回填。
+- STEP17 Canon Propagation / Link & Status Audit：进行中；后续传播提交将记录执行结果。
 
 ## READY CHECK
 
@@ -24,7 +24,7 @@
 | 冲突草稿 | episode 目录未见第二份母稿或冲突的旧 DRAFT / 暂名 / IN PROGRESS 权威文件 |
 | 本索引引用 | 下列产出与制作说明引用均真实存在 |
 
-**READY CHECK PASS，可以提交主创作 Showrunner FINAL 判断。** 本次仅同步流程状态与索引，不重开场景，不增加创作设定。
+**READY CHECK PASS；主创已明确确认 Showrunner FINAL。** 本次仅同步流程状态与索引，不重开场景，不增加创作设定。
 
 ## 已通过流程与稳定产出
 
@@ -36,7 +36,7 @@
 | STEP3–4 | [beat-sheet.md](beat-sheet.md) | PASS / LOCKED；Gate4 CLOSED |
 | STEP5–6 | [scene-list.md](scene-list.md) | PASS / LOCKED |
 | STEP7–8 | [treatment.md](treatment.md) | PASS / LOCKED |
-| STEP9 | [screenplay.md](screenplay.md) | PASS / CLOSED；全场 LOCKED，尚未 FINAL |
+| STEP9 | [screenplay.md](screenplay.md) | FINAL / LOCKED |
 | STEP10 | [continuity-review.md](continuity-review.md) | PASS / CLOSED |
 | STEP11 | [audience-review.md](audience-review.md) | PASS / CLOSED |
 | STEP12 | [scene-locks.md](scene-locks.md) | PASS / CLOSED |
@@ -56,6 +56,6 @@
 
 ## 后续
 
-主创确认 FINAL 后，停止偏好型润色，按项目流程只因连续性、现实制度、安全、制作不可执行、A 类观众信息或明显人物硬伤重开。
+主创已确认 FINAL，停止偏好型润色，按项目流程只因连续性、现实制度、安全、制作不可执行、A 类观众信息或明显人物硬伤重开。
 
-随后执行 STEP17 的 Add / Remove / Reclassify 与 Link / Status Audit，回填真实 FINAL commit。下一正式开发对象仍由主创指定，本任不自动进入下一集。
+正在执行 STEP17 的 Add / Remove / Reclassify 与 Link / Status Audit，回填真实 FINAL commit。下一正式开发对象仍由主创指定，本任不自动进入下一集。
