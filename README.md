@@ -35,9 +35,9 @@
 - EP08《为什么要跑？》：**DEVELOPMENT；STEP 0–8 PASS；Treatment LOCKED；相泽栞担任本任 Assistant 编剧**
 - EP09《选择》：**FINAL / LOCKED**
 - EP09 Canon Propagation 与 Link / Status Audit：**PASS / CLOSED**
-- 当前开发对象：**EP08《为什么要跑？》｜DEVELOPMENT / STEP 9 CLOSED / STEP 10 NEXT**
+- 当前开发对象：**EP08《为什么要跑？》｜DEVELOPMENT / STEP 9 CLOSED / STEP 10 OPEN / CALENDAR RED**
 
-EP09 在 EP08 之前完成属于有意的非线性开发顺序。EP08 已完成 Room Opening 与 STEP 0–9；Scene List 已通过 Gate 6 并锁定，Treatment 已通过 Gate 8 并锁定，STEP 9 Screenplay 已 PASS / CLOSED，完整正文及整稿修订已收入 `docs/episodes/ep08/screenplay.md`；下一步为 STEP 10 完整连续性审查。场次仍为 PASS，未宣告 LOCKED；当前正片工作估计约46—49分钟，待后续节奏核对。任务定义、现实审查、人物行为、故事骨架、场景连续与可拍展开稿分别见 `docs/episodes/ep08/episode-brief.md`、`reality-review.md`、`behavior-run.md`、`beat-sheet.md`、`scene-list.md`、`treatment.md`。后续开发必须反向尊重 EP09 已锁定的人物状态与进路事实。
+EP09 在 EP08 之前完成属于有意的非线性开发顺序。EP08 已完成 Room Opening 与 STEP 0–9；Scene List 已通过 Gate 6 并锁定，Treatment 已通过 Gate 8 并锁定，STEP 9 Screenplay 已 PASS / CLOSED，完整正文及整稿修订已收入 `docs/episodes/ep08/screenplay.md`；STEP 10 完整连续性审查已执行，倒计时与五日制课表冲突待主创确认修复，审查见 `docs/episodes/ep08/continuity-review.md`，暂未 CLOSED。场次仍为 PASS，未宣告 LOCKED；当前正片工作估计约46—49分钟，待后续节奏核对。任务定义、现实审查、人物行为、故事骨架、场景连续与可拍展开稿分别见 `docs/episodes/ep08/episode-brief.md`、`reality-review.md`、`behavior-run.md`、`beat-sheet.md`、`scene-list.md`、`treatment.md`。后续开发必须反向尊重 EP09 已锁定的人物状态与进路事实。
 
 ## 文档结构
 
