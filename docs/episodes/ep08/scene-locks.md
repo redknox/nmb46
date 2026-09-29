@@ -279,7 +279,7 @@ Y11-03 的文本已经留出递毛巾、陪坐、安静片刻、逐渐落泪的�
 
 保留南坐下后飞鸟短笑又哭：笑不标志伤心结束，也不要求大家一起笑或一起哭。放送席最终分数留在背景，不与飞鸟擦脸逐分对切，不把镜头停留变成团体成绩评价。切黑前仍有眼泪，故事不必等她完整平复才结束。
 
-S12 与 STEP12 已获主创整体收口确认。全部场景 LOCKED；STEP12 PASS / CLOSED。下一步 STEP13，尚未执行；本集尚未 FINAL。
+S12 与 STEP12 已获主创整体收口确认。全部场景 LOCKED；STEP12 PASS / CLOSED。STEP13 此后已由主创确认 CLOSED，STEP14 审查完成、待主创确认收口；本集尚未 FINAL。
 
 ## 后续逐场须承接的 STEP11 YELLOW
 
@@ -287,4 +287,4 @@ S12 与 STEP12 已获主创整体收口确认。全部场景 LOCKED；STEP12 PAS
 - S06／S11：配速标志前后对应。
 - S12：深川从陪伴到自己落泪的停顿。
 
-这些项目的文本条件已逐场复核；制作执行继续交 STEP14，不构成 STEP12 未决改稿项。详见 [audience-review.md](audience-review.md)。
+这些项目的文本条件已逐场复核；STEP14 已给出具体执行要求，见 [performance-review.md](performance-review.md)；现场与成片验证仍待实施，不构成 STEP12 未决改稿项。详见 [audience-review.md](audience-review.md)。

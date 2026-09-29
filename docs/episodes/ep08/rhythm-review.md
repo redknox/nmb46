@@ -1,6 +1,6 @@
 # EP08《为什么要跑？》｜STEP13 Rhythm Review
 
-> 状态：**REVIEW / STEP13 审查 PASS / 待主创确认收口**。
+> 状态：**STEP13 / PASS / CLOSED**。
 >
 > 检查基线：`f11d92ff5f7cdb7faf839158ee58c813b0815500`；STEP12 PASS / CLOSED，全场 LOCKED。
 >
@@ -91,9 +91,9 @@ S10—S12 合计边界 **10:27—12:33**，高潮并未只剩几分钟；但这�
 
 ## 7. Gate 与后续
 
-**STEP13 文本审查 PASS，待主创确认收口。** 无新增正文修订建议，无需重开 Scene LOCK；本集仍未 FINAL。
+**STEP13 文本审查 PASS / CLOSED，主创已确认收口。** 无新增正文修订建议，无需重开 Scene LOCK；本集仍未 FINAL。
 
-本轮实际修改仅为本报告、README／Current Desk 状态，以及 Scene List 三段标题的估时同步。后续 STEP14 承接：
+本轮实际修改仅为本报告、README／Current Desk 状态，以及 Scene List 三段标题的估时同步。STEP14 已按以下项目完成文本审查，详见 [performance-review.md](performance-review.md)；实际制作验证仍待实施：
 
 1. S02、S04—S05：动作与对白并行，避免每次重置都成为一个完整镜头段落。
 2. S06—S07：读屏、地图与时间字幕的可读性，不靠额外停顿反复强调。
