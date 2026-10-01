@@ -24,7 +24,7 @@
 
 - 单季 12 集
 - 常规集约 50 分钟
-- 最终回《放学后》约 90 分钟
+- EP11、EP12 共同承担毕业收束，以典礼日中午为界；EP11 约50分钟，EP12 最终时长待确认，原90分钟特别篇不再作为默认硬约束
 - EP01《入学》：**FINAL / LOCKED**
 - EP02《裙摆》：**FINAL / LOCKED**
 - EP03《午休》：**FINAL / LOCKED**
@@ -36,7 +36,8 @@
 - EP09《选择》：**FINAL / LOCKED**
 - EP09 Canon Propagation 与 Link / Status Audit：**PASS / CLOSED**
 - EP08 Canon Propagation 与 Link / Status Audit：**PASS / CLOSED**
-- 当前状态：**EP01—EP09 均已 FINAL；下一正式开发对象由主创指定。**
+- 当前状态：**EP01—EP09 均已 FINAL；当前正式开发 EP11《毕业》，DEVELOPMENT / STEP0 CLOSED，下一节点 STEP1 现实审查。**
+- EP11 权威任务定义：[episode-brief.md](docs/episodes/ep11/episode-brief.md)。EP10 未正式开发，EP12 仅确认与 EP11 的结构接口，尚未启动正式开发。
 
 EP09 先于 EP08 完成属于有意的非线性开发顺序。EP08 现已完成 STEP0–17，Showrunner FINAL、Canon Propagation、Link / Status Audit 全部 CLOSED。正片唯一母稿为 `docs/episodes/ep08/screenplay.md`，状态索引见 `docs/episodes/ep08/FINAL.md`，长期事实见 `docs/structure/ep08-final-canon-lock.md`，体育祭运行规则见 `docs/world/sports-festival-lock.md`。
 
