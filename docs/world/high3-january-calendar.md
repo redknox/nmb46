@@ -69,7 +69,7 @@
 - 1月30日以后，不再每天见面；偶尔来校必须有指定登校、备考或办理事务等具体依据。
 - 三月毕业前的返校不再称为“最后几个普通上学日”。
 
-毕业典礼具体日期及 EP12 时长仍待确认。EP11—12现以典礼日中午分界，上午庆祝归EP11、下午班会及离校归EP12；[EP11 STEP0](../episodes/ep11/episode-brief.md)已收口。参见[后半季日历](../structure/ep08-ep12-calendar-lock.md)及[当前桌面](../writers-room/current-desk.md)。本校历具体日期不变，不更改 EP01—EP09 FINAL。
+主创于2026-10-01确认：**3月2日（周一）予行、3月3日（周二）正式毕业典礼**，沿用2026年参考日期、不确定故事绝对年份。二月登校安排、予行与典礼具体作息及 EP12 时长仍待确认。EP11—12现以典礼日中午分界，上午庆祝归EP11、下午班会及离校归EP12；[EP11 STEP0](../episodes/ep11/episode-brief.md)已收口。参见[后半季日历](../structure/ep08-ep12-calendar-lock.md)及[当前桌面](../writers-room/current-desk.md)。本校历具体日期不变，不更改 EP01—EP09 FINAL。
 
 ## 6. 现实依据及采用范围
 
