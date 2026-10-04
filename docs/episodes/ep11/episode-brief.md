@@ -4,7 +4,7 @@
 >
 > 工作状态：**DEVELOPMENT**。2026-09-30 主创指定 EP11 并开启 STEP 0；2026-10-01 按主创收口要求完成本集任务定义。
 >
-> 本文件确认任务、边界及人物跑测起点，不替代 STEP 1 现实审查、STEP 2 行为跑测或 Beat Sheet。当前节点：**STEP0–4 CLOSED；STEP5 IN PROGRESS｜分场共同创作**。主创于2026-10-04确认一月跑测、全段观看方向及热力图调整；[行为跑测](behavior-run.md)已PASS / CLOSED，[故事骨架](beat-sheet.md)随后获主创确认，STEP4结构检查PASS。2026-10-05主创认可1月16日3-C开场对白修订，当前内容见[Scene List](scene-list.md)；其余场次继续共同创作，未通过STEP6或STEP12锁定。
+> 本文件确认任务、边界及人物跑测起点，不替代 STEP 1 现实审查、STEP 2 行为跑测或 Beat Sheet。当前节点：**STEP0–4 CLOSED；STEP5 IN PROGRESS｜分场共同创作**。主创于2026-10-04确认一月跑测、全段观看方向及热力图调整；[行为跑测](behavior-run.md)已PASS / CLOSED，[故事骨架](beat-sheet.md)随后获主创确认，STEP4结构检查PASS。2026-10-05主创认可1月16日3-C开场对白修订及随后共通测试考场过场、19日估分场的衔接，当前S01—03见[Scene List](scene-list.md)；其余场次继续共同创作，未通过STEP6或STEP12锁定。
 
 ## 1. 一句话主题
 
