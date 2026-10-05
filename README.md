@@ -36,7 +36,7 @@
 - EP09《选择》：**FINAL / LOCKED**
 - EP09 Canon Propagation 与 Link / Status Audit：**PASS / CLOSED**
 - EP08 Canon Propagation 与 Link / Status Audit：**PASS / CLOSED**
-- 当前状态：**EP01—EP09 均已 FINAL；当前正式开发 EP11《毕业》，DEVELOPMENT / STEP0–4 CLOSED；故事骨架经主创确认、结构压力测试 PASS，STEP5 分场共同创作进行中，一月S01—06及跨天日期／事件字幕已获主创认可；S07约人方案先保留、对白待打磨，见 [Scene List](docs/episodes/ep11/scene-list.md)。**
+- 当前状态：**EP01—EP09 均已 FINAL；当前正式开发 EP11《毕业》，DEVELOPMENT / STEP0–4 CLOSED；故事骨架经主创确认、结构压力测试 PASS，STEP5 分场共同创作进行中，一月S01—06及跨天日期／事件字幕已获主创认可；S07约人方案先保留、对白待打磨；S08南报喜场已获认可，见 [Scene List](docs/episodes/ep11/scene-list.md)。**
 - EP11 权威任务定义：[episode-brief.md](docs/episodes/ep11/episode-brief.md)；现实审查与已确认典礼流程：[reality-review.md](docs/episodes/ep11/reality-review.md)；人物跑测与SNS信息流参考：[behavior-run.md](docs/episodes/ep11/behavior-run.md)（PASS / CLOSED）；[故事骨架与结构压力测试](docs/episodes/ep11/beat-sheet.md)（STEP3已确认／STEP4 PASS）。EP10 未正式开发，EP12 仅确认与 EP11 的结构接口，尚未启动正式开发。
 
 EP09 先于 EP08 完成属于有意的非线性开发顺序。EP08 现已完成 STEP0–17，Showrunner FINAL、Canon Propagation、Link / Status Audit 全部 CLOSED。正片唯一母稿为 `docs/episodes/ep08/screenplay.md`，状态索引见 `docs/episodes/ep08/FINAL.md`，长期事实见 `docs/structure/ep08-final-canon-lock.md`，体育祭运行规则见 `docs/world/sports-festival-lock.md`。
